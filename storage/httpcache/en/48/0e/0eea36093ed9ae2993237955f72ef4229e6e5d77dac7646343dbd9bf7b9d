@@ -1,0 +1,1337 @@
+<!DOCTYPE html>
+<html  lang="tr">
+<head>
+
+      <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+   <title>Üroloji - Maltepe Üniversitesi Hastanesi</title>
+   
+   <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "DiagnosticLab",
+        "name": "Maltepe Üniversitesi Tıp Fakültesi Hastanesi",
+        "alternateName": "Maltepe Üniversitesi Tıp Fakültesi Hastanesi",
+        "url": "https://maltepehastanesi.com.tr/",
+        "logo": "https://maltepehastanesi.com.tr/storage/contact-us/April2023/ypmicZCnhW4bsxXreJa8.png",
+        "sameAs": [
+          "https://twitter.com/maltepehastane",
+          "https://www.instagram.com/maltepehastanesi/",
+          "https://www.youtube.com/channel/UCGYFM1EzmkMN3B1hno4FRWg",
+          "",
+          "https://www.facebook.com/Maltepehastanesi/"
+        ]
+      }
+   </script>
+
+       
+        
+    
+
+       <meta name="robots" content="index">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TFLQW2BV');</script>
+<!-- End Google Tag Manager -->
+      <meta name="description" content="Üroloji ile ilgili tedavi yöntemleri ve detaylı bilgilere yazımızdan ulaşabilirsiniz. - Maltepe Üniversitesi Tıp Fakültesi Hastaneleri">   <meta name="keywords" content="Üroloji">   <link rel="canonical" href="https://maltepehastanesi.com.tr/tr/tibbi-birimlerimiz/uroloji" />   <meta property="og:image" content="https://maltepehastanesi.com.tr/storage/medical-units/February2023/I2LiWTaqVGLwszU4nfpZ.jpg" />   <!-- <meta name="author" content="smartwork.com.tr"> -->
+   <meta property="og:image:type" content="image/png">
+	<meta property="og:image:width" content="300">
+	<meta property="og:image:height" content="300">
+   <meta property="og:title" content="Üroloji - Maltepe Üniversitesi Hastanesi"/>   <meta property="og:locale" content="tr_TR"/>   <meta property="og:type" content="website"/>
+   <meta property="og:description" content="Üroloji ile ilgili tedavi yöntemleri ve detaylı bilgilere yazımızdan ulaşabilirsiniz. - Maltepe Üniversitesi Tıp Fakültesi Hastaneleri"/>   <meta property="og:url" content="https://maltepehastanesi.com.tr/tr/tibbi-birimlerimiz/uroloji"/>
+   <meta property="og:site_name" content="Maltepe Üniversitesi Tıp Fakültesi Hastanesi"/>   <meta name="twitter:card" content="summary_large_image"/>
+   <meta name="twitter:title" content="Üroloji - Maltepe Üniversitesi Hastanesi"/>   <meta name="twitter:description" content="Üroloji ile ilgili tedavi yöntemleri ve detaylı bilgilere yazımızdan ulaşabilirsiniz. - Maltepe Üniversitesi Tıp Fakültesi Hastaneleri"/>   <meta name="twitter:image" content="https://maltepehastanesi.com.tr/storage/medical-units/February2023/I2LiWTaqVGLwszU4nfpZ.jpg"/>      <link rel="alternate" hreflang="tr" href="https://maltepehastanesi.com.tr/tr/tibbi-birimlerimiz/uroloji" />
+      <link rel="alternate" hreflang="en" href="https://maltepehastanesi.com.tr/en/medical-units/urology" />
+      <link rel="alternate" hreflang="ar" href="https://maltepehastanesi.com.tr/ar/medical-units/urology" />
+      <link rel="alternate" hreflang="fr" href="https://maltepehastanesi.com.tr/fr/unites-medicales/urologie" />
+   	<link rel="icon" type="image/png" href="https://maltepehastanesi.com.tr/img/favicon/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="32x32" href="https://maltepehastanesi.com.tr/img/favicon/favicon-32x32.png">
+	<link rel="apple-touch-icon-precomposed" sizes="16x16" href="https://maltepehastanesi.com.tr/img/favicon/favicon-16x16.png">
+	<link rel="apple-touch-icon-precomposed" href="https://maltepehastanesi.com.tr/img/favicon/apple-touch-icon.png">
+	<meta name="msapplication-TileImage" content="https://maltepehastanesi.com.tr/imgs/favicon/apple-touch-icon.png">
+   <link rel="stylesheet" href="https://maltepehastanesi.com.tr/lib/fontawesome-free-6.2.0-web/css/all.min.css">
+   <link rel="stylesheet" href="https://maltepehastanesi.com.tr/lib/bootstrap-5.2.0/css/bootstrap.min.css">
+   <link rel="stylesheet" href="https://maltepehastanesi.com.tr/lib/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css">
+   <link rel="stylesheet" href="https://maltepehastanesi.com.tr/lib/intl-tel-input-master/build/css/intlTelInput.min.css">
+   <link rel="stylesheet" href="https://maltepehastanesi.com.tr/css/humberger.css">
+   <link rel="stylesheet" href="https://maltepehastanesi.com.tr/lib/animate.css-main/animate.min.css">
+   <link rel="stylesheet" href="https://maltepehastanesi.com.tr/lib/fancybox/dist/jquery.fancybox.min.css">
+   <link rel="stylesheet" href="https://maltepehastanesi.com.tr/css/toastr.min.css">
+   
+   <link href="https://maltepehastanesi.com.tr/lib/jquery-nice-select-1.1.0/css/nice-select.css" rel="stylesheet" />
+   <link rel="stylesheet" href="https://maltepehastanesi.com.tr/css/style.css">
+   <link rel="stylesheet" href="https://maltepehastanesi.com.tr/css/responsive.css">
+   
+</head>
+
+<body>
+   <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFLQW2BV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+    <!-- menu ==---------------------------- -->
+
+    
+   <section class="menu-section">
+    <div class="row">
+       <div class="col-md-4 col-lg-3 col-xl-3 sidebar">
+          <div class="content">
+             <div class="topsec">
+                <div class="close">
+                   <button><img class="lazyload" data-class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/close.png" alt=""></button>
+                </div>
+                <div class="logo">
+                   <img class="lazyload" data-class="lazyload" data-src="https://maltepehastanesi.com.tr/img/logow.png" alt="">
+                </div>
+                <div class="location">
+                   <a href="https://www.google.com/maps/place/Maltepe+%C3%9Cniversitesi+T%C4%B1p+Fak%C3%BCltesi+Hastanesi/@40.925496,29.135419,18z/data=!4m6!3m5!1s0x14cac70575134603:0x18efdc50e8cae3d8!8m2!3d40.9254958!4d29.1354188!16s%2Fg%2F11qmq5n2pj?hl=tr" target="_blank">
+                      <div class="icon">
+                         <img class="lazyload" data-class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/lokasyon.png" alt="">
+                      </div>
+                   </a>
+                </div>
+             </div>
+             <div class="centersec">
+                <ul>
+                   <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                      <button class="nav-link" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#nav1" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">kurumsal <i class="fa-solid chevron-icon"></i></button>
+                      <a href="https://maltepehastanesi.com.tr/tr/tibbi-birimlerimiz" class="nav-link active" role="tab" aria-controls="v-pills-settings" aria-selected="false">Tıbbi Birimlerimiz <i class="fa-solid chevron-icon"></i></a>
+                      <a href="https://maltepehastanesi.com.tr/tr/doktorlarimiz" class="nav-link" role="tab" aria-controls="v-pills-settings" aria-selected="false">Doktorlarımız <i class="fa-solid chevron-icon"></i></a>
+                      <button class="nav-link" id="v-pills-patients-tab" data-bs-toggle="pill" data-bs-target="#nav2" type="button" role="tab" aria-controls="v-pills-patients" aria-selected="true">Hastalar <i class="fa-solid chevron-icon"></i></button>
+                      <a href="https://maltepehastanesi.com.tr/tr/checkup" class="nav-link" role="tab" aria-controls="v-pills-settings" aria-selected="false">Check Up Paketlerimiz <i class="fa-solid chevron-icon"></i></a>
+                      <a href="https://maltepehastanesi.com.tr/tr/haberler" class="nav-link" role="tab" aria-controls="v-pills-settings" aria-selected="false">Haberler <i class="fa-solid chevron-icon"></i></a>
+                      <a href="https://maltepehastanesi.com.tr/tr/makaleler" class="nav-link" role="tab" aria-controls="v-pills-settings" aria-selected="false">Makaleler <i class="fa-solid chevron-icon"></i></a>
+                      <a href="https://maltepehastanesi.com.tr/tr/kampanyalar" class="nav-link" role="tab" aria-controls="v-pills-settings" aria-selected="false">Kampanyalar <i class="fa-solid chevron-icon"></i></a>
+                      <a href="https://maltepehastanesi.com.tr/tr/iletisim" class="nav-link" role="tab" aria-controls="v-pills-settings" aria-selected="false">İletişim <i class="fa-solid chevron-icon"></i></a>
+                   </div>
+
+
+                </ul>
+                <ul>
+                            
+                        <li><a href="https://maltepehastanesi.com.tr/tr/sayfa/gizlilik-politikasi">Gizlilik Politikası</a></li>
+                           
+                        <li><a href="https://maltepehastanesi.com.tr/tr/sayfa/kvkk">KVKK</a></li>
+                           
+                        <li><a href="https://maltepehastanesi.com.tr/tr/sayfa/bilgi-g%C3%BCvenligi-politikasi">Bilgi Güvenliği Politikası</a></li>
+                                  </ul>
+             </div>
+
+             <div class="bottomsec">
+                <ul>
+                   <li class="">
+                      <a href="https://randevu.maltepehastanesi.com.tr">
+                         <div class="icon">
+                            <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/date.png" alt="Appointment">
+                            <h4>Online Randevu</h4>
+
+                         </div>
+                      </a>
+                   </li>
+                   <li class="">
+                      <a href="https://maltepehastanesi.com.tr/tr/e-sonuc">
+                         <div class="icon">
+                            <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/sonuc.png" alt="">
+                            <h4>Tetkik Sonuçları</h4>
+
+                         </div>
+                      </a>
+                   </li>
+                   <li class="">
+                      <a href="https://maltepehastanesi.com.tr/tr/evde-saglik">
+                         <div class="icon">
+                            <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/evde.png" alt="">
+                            <h4>Evde Sağlık</h4>
+
+                         </div>
+                      </a>
+                   </li>
+                </ul>
+             </div>
+          </div>
+       </div>
+       
+       <div class="col-md-8 col-lg-9 col-xl-9 rightbar">
+          <div class="rightbar-content">
+             <div class="head">
+                <div class="row">
+                   <div class="left col-md-5 col-xxl-6">
+                     <form action="https://maltepehastanesi.com.tr/tr/arama" method="GET">
+                      <div class="search">
+                         <div class="icon">
+                            <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/sm-search.png" alt="">
+                         </div>
+                         <div class="type">
+                            <div class="input-group">
+                               <input type="text" name="search" class="form-control" placeholder="Arama">
+                            </div>
+                         </div>
+                         <div class="search-btn">
+                            <button><i class="fa-solid arrow-icon"></i></button>
+                         </div>
+                      </div>
+                     </form>
+                   </div>
+                   <div class="right col-md-7 col-xxl-6">
+                      <div class="actions">
+                         <ul>
+                            <li>
+                               <div class="home">
+                                  <a href="https://maltepehastanesi.com.tr">
+                                     <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/home.png" alt="">
+                                  </a>
+                               </div>
+                            </li>
+                            <li>
+                               <div class="dropdown">
+                                  <button class="btn  dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                     <div class="icon">
+                                        <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/world.png" alt="">
+                                     </div>
+                                     <div class="text">
+                                        <h4>Uluslararası Hastalar</h4>
+                                     </div>
+                                     <div class="flag">
+                                        <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/tr.png" alt="tr flag">
+                                     </div>
+                                  </button>
+                                  <ul class="dropdown-menu">
+                                                                         <li><a class="dropdown-item active" href="https://maltepehastanesi.com.tr/tr/tibbi-birimlerimiz/uroloji"><img width="16" class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/tr.png" alt="tr flag"> Türkçe</a></li>
+                                                                          <li><a class="dropdown-item" href="https://maltepehastanesi.com.tr/en/medical-units/urology"><img width="16" class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/en.png" alt="tr flag"> English</a></li>
+                                                                          <li><a class="dropdown-item" href="https://maltepehastanesi.com.tr/ar/medical-units/urology"><img width="16" class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/ar.png" alt="tr flag"> العربية</a></li>
+                                                                          <li><a class="dropdown-item" href="https://maltepehastanesi.com.tr/fr/unites-medicales/urologie"><img width="16" class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/fr.png" alt="tr flag"> Français</a></li>
+                                                                       </ul>
+                               </div>
+                            </li>
+                            <li>
+                               <div class="lokasyon">
+                                  <a href="https://www.google.com/maps/place/Maltepe+%C3%9Cniversitesi+T%C4%B1p+Fak%C3%BCltesi+Hastanesi/@40.925496,29.135419,18z/data=!4m6!3m5!1s0x14cac70575134603:0x18efdc50e8cae3d8!8m2!3d40.9254958!4d29.1354188!16s%2Fg%2F11qmq5n2pj?hl=tr" target="_blank">
+                                     <div class="icon">
+                                        <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/lokasyon.png" alt="">
+                                     </div>
+                                     Hastane Lokasyon
+                                  </a>
+                               </div>
+                            </li>
+                         </ul>
+                      </div>
+                   </div>
+                </div>
+             </div>
+             <div class="center">
+                <div class="content">
+                   <!-- disktop menu ------------------- -->
+                   <div class="disktop-menu">
+                      <div class="tab-content" id="v-pills-tabContent">
+                         <div class="tab-pane fade show " id="nav1" role="tabpanel" aria-labelledby="v-pills-home-tab" tabindex="0">
+                            <ul class="">
+                               
+               
+                                                                                                <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/hakkimizda" >Hakkımızda</a></li>
+                                                                                                <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/kalite-politikamiz" >Kalite Politikamız</a></li>
+                                                                                                <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/kalite-yonetim-birimi-calismalari" >Kalite Yönetim Birimi Çalışmaları</a></li>
+                                                                                                <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/kalite-belgeleri" >Kalite Belgeleri</a></li>
+                                                                                                <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/insan-kaynaklari" >İnsan Kaynakları</a></li>
+                                                                                                <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/vizyon-misyon" >Misyon / Vizyon</a></li>
+                                                                                                <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/ozel-saglik-sigortasi" >Özel Sağlık Sigortası</a></li>
+                                                                                                <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/anlasmali-kurumlar" >Anlaşmalı Kurumlar</a></li>
+                                                                                                <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/sponsorluk" >Sponsorluk</a></li>
+                                                                                                <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/neden-biz" >Neden Biz</a></li>
+                                                                                                <li><a href="https://www.maltepe.edu.tr/mikam" target="_blank">MİKAM</a></li>
+                                                                                                <li><a href="http://en.mek.k12.tr/" target="_blank">Marmara Eğitim Kurumları</a></li>
+                                                                                                <li><a href="https://www.maltepe.edu.tr/en/" target="_blank">Maltepe Üniversitesi</a></li>
+                                                                                                <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/organizasyon-semasi" >Organizasyon Şeması</a></li>
+                               
+                         </div>
+                         <div class="tab-pane fade show " id="nav2" role="tabpanel" aria-labelledby="v-pills-patients-tab" tabindex="0">
+                            <ul class="">
+                              <li><a href="https://maltepehastanesi.com.tr/tr/hastalar/hasta-rehberi"> Hasta Rehberi </a></li>
+                              <li><a href="https://maltepehastanesi.com.tr/tr/hasta-hikaye"> Hasta Hikayeleri </a></li>
+                              <li><a href="#" data-bs-toggle="modal" class="dismiss-menu" data-bs-target="#opinionsSuggestions"> Görüş ve Önerileriniz (Hasta ve Personel) </a></li>
+                              <li><a href="#" data-bs-toggle="modal" class="dismiss-menu" data-bs-target="#getWellModal"> E-Geçmiş Olsun </a></li>
+                            </ul>
+                         </div>
+                      </div>
+                   </div>
+
+                   <!-- disktop menu ------------------- -->
+
+                   <!-- mobile menu ------------------- -->
+                   <div class="mobile-menu">
+                      <div class="tabs-content">
+                         <div class="tab-content" id="v-pills-tabContent">
+                            <div class="tab-pane fade nav1" id="" role="tabpanel" aria-labelledby="v-pills-home-tab" tabindex="0">
+                               <div class="tab-head">
+                                  <div class="left">
+                                     <button onclick="closemenu()"><i class="fa-solid chevron-icon-revers"></i></button>
+                                  </div>
+                                  <div class="title">
+                                     <h3>kurumsal</h3>
+                                  </div>
+                               </div>
+                               <div class="link-content">
+                                  <ul class="">
+                                                                                                               <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/hakkimizda" >Hakkımızda</a></li>
+                                                                                                               <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/kalite-politikamiz" >Kalite Politikamız</a></li>
+                                                                                                               <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/kalite-yonetim-birimi-calismalari" >Kalite Yönetim Birimi Çalışmaları</a></li>
+                                                                                                               <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/kalite-belgeleri" >Kalite Belgeleri</a></li>
+                                                                                                               <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/insan-kaynaklari" >İnsan Kaynakları</a></li>
+                                                                                                               <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/vizyon-misyon" >Misyon / Vizyon</a></li>
+                                                                                                               <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/ozel-saglik-sigortasi" >Özel Sağlık Sigortası</a></li>
+                                                                                                               <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/anlasmali-kurumlar" >Anlaşmalı Kurumlar</a></li>
+                                                                                                               <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/sponsorluk" >Sponsorluk</a></li>
+                                                                                                               <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/neden-biz" >Neden Biz</a></li>
+                                                                                                               <li><a href="https://www.maltepe.edu.tr/mikam" target="_blank">MİKAM</a></li>
+                                                                                                               <li><a href="http://en.mek.k12.tr/" target="_blank">Marmara Eğitim Kurumları</a></li>
+                                                                                                               <li><a href="https://www.maltepe.edu.tr/en/" target="_blank">Maltepe Üniversitesi</a></li>
+                                                                                                               <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/organizasyon-semasi" >Organizasyon Şeması</a></li>
+                                                                      </ul>
+                               </div>
+                            </div>
+                            <div class="tab-pane fade nav2" id="" role="tabpanel" aria-labelledby="v-pills-patients-tab" tabindex="0">
+                               <div class="tab-head">
+                                  <div class="left">
+                                     <button onclick="closemenu()"><i class="fa-solid chevron-icon-revers"></i></button>
+                                  </div>
+                                  <div class="title">
+                                     <h3>Hastalar</h3>
+                                  </div>
+                               </div>
+                               <div class="link-content">
+                                  <ul class="">
+                                    <li><a href="https://maltepehastanesi.com.tr/tr/hastalar/hasta-rehberi"> Hasta Rehberi </a></li>
+                                    <li><a href="https://maltepehastanesi.com.tr/tr/hasta-hikaye"> Hasta Hikayeleri </a></li>
+                                    <li><a href="#" data-bs-toggle="modal" class="dismiss-menu" data-bs-target="#opinionsSuggestions"> Görüş ve Önerileriniz (Hasta ve Personel) </a></li>
+                                    <li><a href="#" data-bs-toggle="modal" class="dismiss-menu" data-bs-target="#getWellModal"> E-Geçmiş Olsun </a></li>
+                                  </ul>
+                               </div>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="top-menu">
+                         <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target=".nav1" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">kurumsal <i class="fa-solid chevron-icon"></i></button>
+                            <a href="https://maltepehastanesi.com.tr/tr/tibbi-birimlerimiz" class="nav-link active" role="tab" aria-controls="v-pills-settings" aria-selected="false">Tıbbi Birimlerimiz <i class="fa-solid chevron-icon"></i></a>
+                            <a href="https://maltepehastanesi.com.tr/tr/doktorlarimiz" class="nav-link" role="tab" aria-controls="v-pills-settings" aria-selected="false">Doktorlarımız <i class="fa-solid chevron-icon"></i></a>
+                            <button class="nav-link" id="v-pills-patients-tab" data-bs-toggle="pill" data-bs-target=".nav2" type="button" role="tab" aria-controls="v-pills-patients" aria-selected="true">Hastalar <i class="fa-solid chevron-icon"></i></button>
+                            <a href="https://maltepehastanesi.com.tr/tr/checkup" class="nav-link" role="tab" aria-controls="v-pills-settings" aria-selected="false">Check Up Paketlerimiz <i class="fa-solid chevron-icon"></i></a>
+                            <a href="https://maltepehastanesi.com.tr/tr/haberler" class="nav-link" role="tab" aria-controls="v-pills-settings" aria-selected="false">Haberler <i class="fa-solid chevron-icon"></i></a>
+                            <a href="https://maltepehastanesi.com.tr/tr/makaleler" class="nav-link" role="tab" aria-controls="v-pills-settings" aria-selected="false">Makaleler <i class="fa-solid chevron-icon"></i></a>
+                            <a href="https://maltepehastanesi.com.tr/tr/kampanyalar" class="nav-link" role="tab" aria-controls="v-pills-settings" aria-selected="false">Kampanyalar <i class="fa-solid chevron-icon"></i></a>
+                            <a href="https://maltepehastanesi.com.tr/tr/iletisim" class="nav-link" role="tab" aria-controls="v-pills-settings" aria-selected="false">İletişim <i class="fa-solid chevron-icon"></i></a>
+                         </div>
+                      </div>
+                      <div class="bottom-menu">
+                         <ul>
+                                    
+                              <li><a href="https://maltepehastanesi.com.tr/tr/sayfa/gizlilik-politikasi">Gizlilik Politikası</a></li>
+                                     
+                              <li><a href="https://maltepehastanesi.com.tr/tr/sayfa/kvkk">KVKK</a></li>
+                                     
+                              <li><a href="https://maltepehastanesi.com.tr/tr/sayfa/bilgi-g%C3%BCvenligi-politikasi">Bilgi Güvenliği Politikası</a></li>
+                                                     </ul>
+                      </div>
+                   </div>
+                   
+
+                   <!-- mobile menu ------------------- -->
+
+
+
+                </div>
+             </div>
+             <div class="footer">
+                <div class="row">
+                   <div class="row saglik-row">
+                      <div class="col-md-5 evdesaglik">
+                         <ul>
+                            <li class="active">
+                               <a href="https://randevu.maltepehastanesi.com.tr">
+                                  <div class="icon">
+                                     <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/date.png" alt="Appointment">
+                                     <h4>Online Randevu</h4>
+
+                                  </div>
+                               </a>
+                            </li>
+                            <li class="">
+                               <a href="https://maltepehastanesi.com.tr/tr/e-sonuc">
+                                  <div class="icon">
+                                     <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/sonuc.png" alt="">
+                                     <h4>Tetkik Sonuçları</h4>
+
+                                  </div>
+                               </a>
+                            </li>
+                            <li class="">
+                               <a href="https://maltepehastanesi.com.tr/tr/evde-saglik">
+                                  <div class="icon">
+                                     <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/evde.png" alt="">
+                                     <h4>Evde Sağlık</h4>
+
+                                  </div>
+                               </a>
+                            </li>
+                         </ul>
+                      </div>
+                   </div>
+                   <div class="left col-md-3 col-xl-4 col-xxl-5">
+                      <ul>
+                         <li class="">
+                            <a href="https://maltepehastanesi.com.tr/tr/fiyat-ogren-sor">
+                               <div class="icon">
+                                  <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/b4.png" alt="">
+                                  <h4>Fiyat Öğren / Sor</h4>
+
+                               </div>
+                            </a>
+                         </li>
+                      </ul>
+                   </div>
+                   <div class="right col-md-9 col-xl-8 col-xxl-7">
+                      <div class="images">
+
+                         <ul>
+
+                                                        <li>
+                              <a href="https://mek.k12.tr/" target="_blank">
+                                 <img class="lazyload" data-src=https://maltepehastanesi.com.tr/storage/footer-logos/February2023/unGrn26qMAB303gnvEWv.png alt="https://mek.k12.tr/">
+                              </a>
+                           </li>
+                                                        <li>
+                              <a href="https://www.maltepe.edu.tr/mikam" target="_blank">
+                                 <img class="lazyload" data-src=https://maltepehastanesi.com.tr/storage/footer-logos/February2023/d0RSu9KxAARflr7sY2my.png alt="https://www.maltepe.edu.tr/mikam">
+                              </a>
+                           </li>
+                                                        <li>
+                              <a href="" target="_blank">
+                                 <img class="lazyload" data-src=https://maltepehastanesi.com.tr/storage/footer-logos/February2023/mVrWVKuZPzaYWnhq8ecg.png alt="">
+                              </a>
+                           </li>
+                                                        <li>
+                              <a href="https://temos-accreditation.com/AccreditedPartners/Details.aspx?id=16777" target="_blank">
+                                 <img class="lazyload" data-src=https://maltepehastanesi.com.tr/storage/footer-logos/July2023/a1m8WVAXqr4TWTmLeACF.png alt="https://temos-accreditation.com/AccreditedPartners/Details.aspx?id=16777">
+                              </a>
+                           </li>
+                               
+                            
+                         </ul>
+
+                      </div>
+                   </div>
+                   <div class="row saglik-row">
+                      <div class="col-md-5 evdesaglik">
+                         <ul>
+                            <li class="active">
+                               <a href="https://randevu.maltepehastanesi.com.tr/">
+                                  <div class="icon">
+                                     <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/date.png" alt="Appointment">
+                                     <h4>Online Randevu</h4>
+
+                                  </div>
+                               </a>
+                            </li>
+                            <li class="">
+                               <a href="https://maltepehastanesi.com.tr/tr/e-sonuc">
+                                  <div class="icon">
+                                     <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/sonuc.png" alt="">
+                                     <h4>Tetkik Sonuçları</h4>
+
+                                  </div>
+                               </a>
+                            </li>
+                            <li class="">
+                               <a href="https://maltepehastanesi.com.tr/tr/evde-saglik">
+                                  <div class="icon">
+                                     <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/evde.png" alt="">
+                                     <h4>Evde Sağlık</h4>
+
+                                  </div>
+                               </a>
+                            </li>
+                         </ul>
+                      </div>
+                   </div>
+                </div>
+
+             </div>
+          </div>
+       </div>
+    </div>
+ </section>
+ <!-- menu ==---------------------------- -->
+
+ <!-- header ==---------------------------- -->
+ <div class="header">
+    <!-- social media ------------ -->
+    <div class="heade-social-media">
+       <ul>
+          <li class="socialmedia-list text-end">
+             <div class="social-list">
+                <ul>
+                  <li><a target="_blank" href="https://www.youtube.com/channel/UCGYFM1EzmkMN3B1hno4FRWg"><i class="fa-brands fa-youtube"></i></a></li>                  <li><a target="_blank" href="https://twitter.com/maltepehastane"><i class="fa-brands fa-twitter"></i></a></li>                  <li><a target="_blank" href="https://www.facebook.com/Maltepehastanesi/"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>                  <li><a target="_blank" href="https://www.instagram.com/maltepehastanesi/"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>                                  </ul>
+             </div>
+             <button class="p-0">
+             <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/like.png" alt="Social Media">
+             </button>
+          </li>
+          <li class="text-end">
+             <a href="tel:4440620" target="_blank">
+                <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/phone.png" alt="Tel">
+             </a>
+          </li>
+          <li class=" text-end">
+             <a href="https://wa.me/905338109696" class="whatsapp" target="_blank">
+                <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/whatsapp.png" alt="whatsapp">
+             </a>
+          </li>
+       </ul>
+    </div>
+    
+    <!-- social media ------------ -->
+    <div class="upper">
+       <div class="menu-btn">
+          <button>
+             <div class="icon">
+                <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/menu.png" alt="">
+             </div>
+             <div class="text">
+                <h4>Menü</h4>
+             </div>
+          </button>
+       </div>
+       <div class="right">
+          <div class="row">
+             <div class="contact col-md-7 col-lg-6">
+                <div class="content">
+                   <div class="links">
+                      <ul>
+                         <li><a href="https://maltepehastanesi.com.tr/tr/kurumsal/hakkimizda">kurumsal</a></li>
+                         <li><a href="https://maltepehastanesi.com.tr/tr/iletisim">İletişim</a></li>
+                      </ul>
+                   </div>
+                   <div class="actions">
+                      <ul>
+                         <li>
+                            <div class="home">
+                               <a href="https://maltepehastanesi.com.tr">
+                                  <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/home.png" alt="">
+                               </a>
+                            </div>
+                         </li>
+                         <li>
+                            <div class="dropdown">
+                               <button class="btn  dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                  <div class="icon">
+                                     <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/world.png" alt="">
+                                  </div>
+                                  <div class="text">
+                                     <h4>Uluslararası Hastalar</h4>
+                                  </div>
+                                  <div class="flag">
+                                     <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/tr.png" alt="tr flag">
+                                  </div>
+                               </button>
+                               <ul class="dropdown-menu">
+                                                                      <li><a class="dropdown-item active" href="https://maltepehastanesi.com.tr/tr/tibbi-birimlerimiz/uroloji"><img width="16" class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/tr.png" alt="tr flag"> Türkçe</a></li>
+                                                                          <li><a class="dropdown-item" href="https://maltepehastanesi.com.tr/en/medical-units/urology"><img width="16" class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/en.png" alt="tr flag"> English</a></li>
+                                                                          <li><a class="dropdown-item" href="https://maltepehastanesi.com.tr/ar/medical-units/urology"><img width="16" class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/ar.png" alt="tr flag"> العربية</a></li>
+                                                                          <li><a class="dropdown-item" href="https://maltepehastanesi.com.tr/fr/unites-medicales/urologie"><img width="16" class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/fr.png" alt="tr flag"> Français</a></li>
+                                                                    </ul>
+                            </div>
+                         </li>
+                         <li>
+                            <div class="lokasyon">
+                               <a href="https://www.google.com/maps/place/Maltepe+%C3%9Cniversitesi+T%C4%B1p+Fak%C3%BCltesi+Hastanesi/@40.925496,29.135419,18z/data=!4m6!3m5!1s0x14cac70575134603:0x18efdc50e8cae3d8!8m2!3d40.9254958!4d29.1354188!16s%2Fg%2F11qmq5n2pj?hl=tr" target="_blank">
+                                  <div class="icon">
+                                     <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/lokasyon.png" alt="">
+                                  </div>
+                                  Hastane Lokasyon
+                               </a>
+                            </div>
+                         </li>
+                      </ul>
+                   </div>
+                </div>
+             </div>
+             <div class="announcement col-md-5 col-lg-6">
+                <div class="content">
+                   <div class="title">
+                      <h4>DUYURU</h4>
+                   </div>
+                   <div class="text">
+                     <div>
+                        <span style="white-space: nowrap;"><h3>Cumhuriyetimizin 100. yılı kutlu olsun! Gururla... // Çocuk ve Ergen Psikiyatristimiz Sn. Sebla Gökçe profesör kadromuza katıldı. // Şubat ayı boyunca Ağız ve Diş Sağlığı Polikliniğimizde tüm muayenelerimiz ücretsizdir. // Medikal Estetik Birimimiz hizmet vermeye başladı. </h3></span>
+
+                     </div>
+
+                   </div>
+                </div>
+             </div>
+          </div>
+       </div>
+    </div>
+    <div class="bottom">
+       <div class="row">
+          <div class="col-md-7 left">
+             <div class="content">
+                <div class="logo">
+                   <div class="logo-con">
+                      <a href="https://maltepehastanesi.com.tr">
+                      <img class="lazyload" data-src="https://maltepehastanesi.com.tr/storage/contact-us/April2023/ypmicZCnhW4bsxXreJa8.png" alt="Maltepe Hastanesi Logo">
+                      </a>
+                   </div>
+
+                   <div class="actions">
+                      <ul>
+                         <li>
+                            <div class="home">
+                               <a href="https://maltepehastanesi.com.tr">
+                                  <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/home.png" alt="">
+                               </a>
+                            </div>
+                         </li>
+                         
+                         <li>
+                            <div class="lokasyon">
+                               <a href="https://www.google.com/maps/place/Maltepe+%C3%9Cniversitesi+T%C4%B1p+Fak%C3%BCltesi+Hastanesi/@40.925496,29.135419,18z/data=!4m6!3m5!1s0x14cac70575134603:0x18efdc50e8cae3d8!8m2!3d40.9254958!4d29.1354188!16s%2Fg%2F11qmq5n2pj?hl=tr" target="_blank">
+                                  <div class="icon">
+                                     <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/lokasyon.png" alt="">
+                                  </div>
+                                  Hastane Lokasyon
+                               </a>
+                            </div>
+                         </li>
+                      </ul>
+                   </div>
+                </div>
+                <div class="links-sec">
+                   <ul>
+                     <li><a href="https://maltepehastanesi.com.tr/tr/tibbi-birimlerimiz">Tıbbi Birimlerimiz <i class="fa-solid chevron-icon"></i></a></li>
+                     <li><a href="https://maltepehastanesi.com.tr/tr/doktorlarimiz">Doktorlarımız <i class="fa-solid chevron-icon"></i></a></li>
+                     <li><a href="https://maltepehastanesi.com.tr/tr/hastalar/hasta-rehberi">Hastalar <i class="fa-solid chevron-icon"></i></a></li>
+                     <li><a href="https://maltepehastanesi.com.tr/tr/checkup">Check Up Paketlerimiz <i class="fa-solid chevron-icon"></i></a></li>
+                     <li><a href="https://maltepehastanesi.com.tr/tr/kampanyalar">Kampanyalar <i class="fa-solid chevron-icon"></i></a></li>
+                   </ul>
+                </div>
+             </div>
+          </div>
+          <div class="col-md-5 evdesaglik">
+             <ul>
+                <li class="active">
+                   <a href="https://randevu.maltepehastanesi.com.tr/">
+                      <div class="icon">
+                         <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/date.png" alt="Appointment">
+                         <h4>Online Randevu</h4>
+
+                      </div>
+                   </a>
+                </li>
+                <li class="">
+                   <a href="https://maltepehastanesi.com.tr/tr/e-sonuc">
+                      <div class="icon">
+                         <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/sonuc.png" alt="">
+                         <h4>Tetkik Sonuçları</h4>
+
+                      </div>
+                   </a>
+                </li>
+                <li class="">
+                   <a href="https://maltepehastanesi.com.tr/tr/evde-saglik">
+                      <div class="icon">
+                         <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/evde.png" alt="">
+                         <h4>Evde Sağlık</h4>
+
+                      </div>
+                   </a>
+                </li>
+             </ul>
+          </div>
+       </div>
+    </div>
+    <div class="sticky-menu">
+      <div class="upper">
+         <div class="menu-btn">
+            <button>
+               <div class="icon">
+                  <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/menu.png" alt="">
+               </div>
+               <div class="text">
+                  <h4>Menü</h4>
+               </div>
+            </button>
+         </div>
+         <div class="right">
+            <div class="row">
+               <div class="contact col-md-12 col-lg-8 col-xl-6">
+                  <div class="content">
+                     <div class="logo">
+                        <a href="https://maltepehastanesi.com.tr">
+                           <img class="lazyload" data-src="https://maltepehastanesi.com.tr/storage/contact-us/April2023/ypmicZCnhW4bsxXreJa8.png" alt="Maltepe Hastanesi Logo">
+                        </a>
+                     </div>
+                     <div class="actions">
+                        <ul>
+                           <li>
+                              <div class="home">
+                                 <a href="https://maltepehastanesi.com.tr">
+                                    <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/home.png" alt="">
+                                 </a>
+                              </div>
+                           </li>
+                           <li>
+                              <div class="dropdown">
+                                 <button class="btn  dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <div class="icon">
+                                       <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/world.png" alt="">
+                                    </div>
+                                    <div class="text">
+                                       <h4>Uluslararası Hastalar</h4>
+                                    </div>
+                                    <div class="flag">
+                                       <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/tr.png" alt="tr flag">
+                                    </div>
+                                 </button>
+                                 <ul class="dropdown-menu">
+                                                                         <li><a class="dropdown-item active" href="https://maltepehastanesi.com.tr/tr/tibbi-birimlerimiz/uroloji"><img width="16" class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/tr.png" alt="tr flag"> Türkçe</a></li>
+                                                                          <li><a class="dropdown-item" href="https://maltepehastanesi.com.tr/en/medical-units/urology"><img width="16" class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/en.png" alt="tr flag"> English</a></li>
+                                                                          <li><a class="dropdown-item" href="https://maltepehastanesi.com.tr/ar/medical-units/urology"><img width="16" class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/ar.png" alt="tr flag"> العربية</a></li>
+                                                                          <li><a class="dropdown-item" href="https://maltepehastanesi.com.tr/fr/unites-medicales/urologie"><img width="16" class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/fr.png" alt="tr flag"> Français</a></li>
+                                                                      </ul>
+                              </div>
+                           </li> 
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <div class="announcement col-md-5 col-lg-3 ">
+                  <div class="content">
+                     <div class="title">
+                        <h4>DUYURU</h4>
+                     </div>
+                     <div class="text">
+                        <div>
+                           <span style="white-space: nowrap;"><h3>Cumhuriyetimizin 100. yılı kutlu olsun! Gururla... // Çocuk ve Ergen Psikiyatristimiz Sn. Sebla Gökçe profesör kadromuza katıldı. // Şubat ayı boyunca Ağız ve Diş Sağlığı Polikliniğimizde tüm muayenelerimiz ücretsizdir. // Medikal Estetik Birimimiz hizmet vermeye başladı. </h3></span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-xl-3 evdesaglik-item">
+               <div class=" evdesaglik">
+               <ul>
+                  <li class="active">
+                     <a href="https://randevu.maltepehastanesi.com.tr/">
+                        <div class="icon">
+                           <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/date.png" alt="Appointment">
+                           <h4>Online Randevu</h4>
+
+                        </div>
+                     </a>
+                  </li>
+                  <li class="">
+                     <a href="https://maltepehastanesi.com.tr/tr/e-sonuc">
+                        <div class="icon">
+                           <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/sonuc.png" alt="">
+                           <h4>Tetkik Sonuçları</h4>
+
+                        </div>
+                     </a>
+                  </li>
+                  <li class="">
+                     <a href="https://maltepehastanesi.com.tr/tr/evde-saglik">
+                        <div class="icon">
+                           <img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/evde.png" alt="">
+                           <h4>Evde Sağlık</h4>
+
+                        </div>
+                     </a>
+                  </li>
+               </ul>
+            </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      </div>
+ </div>
+
+<div class="main-section">
+    <!-- kvkk-section ==---------------------------- -->
+        <div class="sm-banner">
+        <div class="content" >
+        <div class="banner-image">
+            <img src="https://maltepehastanesi.com.tr/storage/medical-units/February2023/I2LiWTaqVGLwszU4nfpZ.jpg" alt="Üroloji">
+        </div>
+            <div class="container">
+                <div class="text">
+                    <h1>Üroloji</h1>
+                                    </div>
+            </div>
+        </div>
+    </div>
+        <div class="tup-bebek-section ">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-xl-8 text">
+                    <h2>Bölüm Hakkında</h2>
+                    
+                    <div class="text-content">
+                    <h2>&Uuml;roloji ve &Uuml;rolog Nedir?</h2>
+<p>Her yaş aralığında g&ouml;r&uuml;lmesi m&uuml;mk&uuml;n olan idrar yolları ile erkeklerde &uuml;reme sistemlerini inceleyen tıbbi b&ouml;l&uuml;me &ldquo;&uuml;roloji&rdquo; adı verilmektedir. Bu b&ouml;l&uuml;mde her yaş grubuna bakan idrar yolları ve &uuml;reme sistemleri alanında uzman olan kişilere ise &ldquo;&uuml;rolog&rdquo; denilmektedir.</p>
+<h2>&Uuml;roloji B&ouml;l&uuml;m&uuml; Neleri Kapsamaktadır?</h2>
+<p>&Uuml;roloji b&ouml;l&uuml;m&uuml; herhangi bir cinsiyet ve yaş g&ouml;zetmeksizin &uuml;reme sistemlerini incelemektedir. İdrar yolları ile bağlantılı b&ouml;brek, &uuml;retra ve mesane b&ouml;lgelerini en ince ayrıntılarıyla inceleyen &uuml;roloji birimi erkek &uuml;reme sistemlerini oluşturan testis, penis gibi t&uuml;m organları da incelemektedir. Erkek hastalarda genellikle prostat ve prostat ameliyatı sonrasında g&ouml;r&uuml;len belirtiler ile yakından ilgili olan &uuml;roloji b&ouml;l&uuml;m&uuml; kadın hastalarında da idrar ka&ccedil;ırma problemleri ve organların sarkma durumları ile de yakından ilişkilidir.</p>
+<p>&Uuml;roloji b&ouml;l&uuml;m&uuml;n&uuml;n bir diğer &ouml;zelliği de &ccedil;ocuk hastalarında yetişkin hastaların aksine farklı tedaviler uygulamasıdır. S&uuml;nnet, genetik &uuml;rolojik hastalıklar ve enfeksiyonlar gibi rahatsızlıkları da &uuml;roloji b&ouml;l&uuml;m&uuml; yakından incelemektedir. &Ccedil;ocuklar i&ccedil;in &ldquo;&ccedil;ocuk &uuml;rolojisi&rdquo; altında ayrı bir b&ouml;l&uuml;m&uuml; bulunan &Uuml;roloji birimi ile alanında uzman doktorlarımız tarafından hastalarımıza kapsamlı bir m&uuml;dahale ve tedavi y&ouml;ntemi izlenmektedir.</p>
+<h2>&Uuml;roloji B&ouml;l&uuml;m&uuml;n&uuml; Kapsayan Hastalıklar Nelerdir?</h2>
+<p>&Uuml;roloji biriminin altında en yaygın hastalıklar mesane kanseri, prostat kanseri, b&ouml;brek kanseri ve testis kanseri olarak bilinmektedir. Bunun yanı sıra her &uuml;reme sistemi ile ilgili olan konuya bakıldığı gibi bahsettiğimiz b&uuml;y&uuml;k hastalıkların teşhis ve tedavisinde de &uuml;roloji birimi yer almaktadır.</p>
+<p><strong>Peki, bu hastalıkların nedenleri ve tedavileri nasıldır?</strong></p>
+<p><strong>Mesane Kanseri:</strong> İdrar sırasında ağrı &ccedil;ekmeden pıhtılı kanama şeklinde belirtiler g&ouml;steren mesane kanseri hastalığında ilk belirtiler zorlanma ve yanma şeklindedir. &Ouml;zellikler erkeklerde daha yaygın g&ouml;r&uuml;len bu hastalık sigara kullanan kişilerde de sıklıkla g&ouml;r&uuml;lmektedir. Mesane kanseri ş&uuml;phesi ile gelen hastalara endoskopik m&uuml;dahaleler yapıldıktan sonra detaylı sonu&ccedil;lar ile teşhis konulurken ciddi bir takip ve tedavi sonrasında ila&ccedil; ya da kemoterapi-radyoterapi y&ouml;ntemleri uygulanmaktadır. Ge&ccedil;mişten g&uuml;n&uuml;m&uuml;ze gelişen tedavi y&ouml;ntemleri ve teknolojik gelişmeler sonrasında artık mesane kanseri &ccedil;&ouml;z&uuml;me kavuşturulabilen ve iyileşme g&ouml;r&uuml;len bir rahatsızlık olarak karşımıza &ccedil;ıkmaktadır.</p>
+<p><strong>Prostat Kanseri:</strong> Erkeklerde g&ouml;r&uuml;len prostat kanseri testosteron maruziyetinden kaynaklı olarak ortaya &ccedil;ıkmaktadır. Genetik bir rahatsızlık olarak da sıklıkla karşılaşılan prostat kanseri rahatsızlığında 45-50 yaş aralığı b&uuml;y&uuml;k &ouml;nem taşımaktadır. Herhangi bir ş&uuml;pheli durum karşısında yapılan PSA testi, prostat MR ve genetik incelemeler sonucunda teşhisi konulan prostat kanserinde detaylı bir inceleme yapılması zorunludur. Gelişen teknoloji ve &uuml;roloji alanındaki uzmanlarımız sayesinde hastalarımız prostatı alınmadan sadece kanserli h&uuml;crelerin yok edilmesi ile sağlığına kavuşmaktadır.</p>
+<p><strong>B&ouml;brek Kanseri:</strong> Maltepe &Uuml;niversitesi Tıp Fak&uuml;ltesi Hastaneleri&rsquo;nde gelişen teknoloji ile artık kişiler eski d&ouml;nemlerdeki gibi idrarlarında kan olmasını ya da şişkinlik gibi rahatsızlıkları beklemeden ultrason ve tomografi ile b&ouml;brek kanseri tanısını erkenden &ouml;ğrenebilmektedirler. Erken d&ouml;nemde herhangi bir şikayete bağlı kalmadan teşhisi konulan b&ouml;brek kanseri rahatsızlığında gelişen teknoloji ile b&ouml;breğin sağlıklı b&ouml;l&uuml;m&uuml; korunarak var olan kitle alınabilmektedir. B&ouml;ylelikle hastalarımızın ameliyattaki riskleri azalırken iyileşme s&uuml;re&ccedil;leri de daha sağlıklı ge&ccedil;mektedir.</p>
+<p><strong>Testis Kanseri:</strong> Prostat kanseri gibi gen&ccedil; ve orta yaş erkeklerde g&ouml;r&uuml;len testis kanseri genellikle testislerde ağrısız bir şekilde b&uuml;y&uuml;yen bir kitle sonucunda fark edilmektedir. Ultrason y&ouml;ntemlerimiz ile kesin bir tanı konulurken herhangi bir gecikme yaşamadan gerekli tedaviler sağlanmaktadır. Ultrason y&ouml;nteminin yanı sıra kandaki t&uuml;m&ouml;r bulgularına da bakılan testis kanserinde ş&uuml;pheli herhangi bir durum g&ouml;r&uuml;ld&uuml;ğ&uuml; taktirde gerekli tedavi uygulanırken, gerekli durumlarda kemoterapi ve radyoterapi gibi tedavi yollarına da başvurulmaktadır.</p>
+<h2>&Uuml;roloji B&ouml;l&uuml;m&uuml;nde Başvurulan &Uuml;rolojik Testler ve Y&ouml;ntemler Hangileridir?</h2>
+<p>Maltepe &Uuml;niversitesi Tıp Fak&uuml;ltesi Hastaneleri&rsquo;nde alanında uzman doktorlarımız hastalarımız i&ccedil;in en doğru teşhisi ve tedavi y&ouml;ntemini uygulamaktadırlar.</p>
+<p>Kapalı prostat ameliyatı y&ouml;ntemi olan Holmium Lazer ile prostat b&uuml;y&uuml;melerinin tedavisinde olduk&ccedil;a etkili bir şekilde kullanılmaktadır. Kapalı prostat ameliyatlarının yanı sıra 80 gram ve &uuml;zeri boyuttaki prostatlarda daha başarılı bir y&ouml;ntem olan Holmium Lazer sayesinde hastalarımızda iyileşme oranları daha y&uuml;ksek g&ouml;r&uuml;lmektedir.</p>
+<p>Bunun yanı sıra Thulium Lazer y&ouml;ntemi ile teknolojiden olduk&ccedil;a faydalanılırken kanamaya en yakın g&ouml;r&uuml;len dokular kanama olmadan kesilebilirken gerekli dokuların buharlaşması da sağlanmaktadır. Thulep olarak da bilinen Thulium Lazer y&ouml;ntemi sayesinde hastalar en iyi şekilde lazer ameliyatı olurken iyileşme s&uuml;re&ccedil;leri de bir o kadar hızlı olmaktadır.</p>
+<p>Maltepe &Uuml;niversitesi Tıp Fak&uuml;ltesi Hastaneleri olarak ileri teknolojimiz ve her ge&ccedil;en g&uuml;n gelişen tedavi y&ouml;ntemlerimiz arasında robotik cerrahi, Hifu yani sadece kanserli alanların yok edilmesi de yer almaktadır.</p>
+<h2>&Uuml;roloji B&ouml;l&uuml;m&uuml;ndeki Tanı ve Tedavi Y&ouml;ntemleri Hangileridir?</h2>
+<p>&Uuml;roloji biriminde ger&ccedil;ekleştirilen tanı s&uuml;recinde PSA testi, Prostat sağlık indeksi, MR, Bilgisayarlı tomografi, Ultrason, &uuml;rodinami testi, sistoskopi ve genetik testler ilk bakılan tanı y&ouml;ntemleri arasında yer almaktadır. Bunun yanı sıra gelişkin tanı y&ouml;ntemleri arasında prostat biyopsisi, imm&uuml;noterapi y&ouml;ntemleri de yer almaktadır. &Uuml;rolojik rahatsızlıklarda tanı ve tedavi planlamasının &ouml;neminin bilinerek hareket edilmesi hastaların erken teşhis ile sağlıklarına konforlu bir şekilde kavuşmasını sağlayabilmektedir.</p>
+<p>Maltepe &Uuml;niversitesi Tıp Fak&uuml;ltesi Hastaneleri olarak tanı işleminden sonra tedavi y&ouml;ntemlerimiz ile de hastalarımızın sağlıklarına en optimal şekilde kavuşmaları &ouml;nceliğimizdir. Bu doğrultuda kapalı ve robotik cerrahi y&ouml;ntemlerimiz ile hastalarımıza en iyi ve en konforlu tedavi y&ouml;ntemlerini sunmaktayız.</p>
+<h2>Maltepe &Uuml;niversitesi Tıp Fak&uuml;ltesi Hastaneleri &Uuml;roloji Birimi&nbsp;</h2>
+<p>Maltepe &Uuml;niversitesi Tıp Fak&uuml;ltesi Hastaneleri olarak &uuml;roloji birimimizdeki uzman kadromuz ile son teknolojiyi kullandığımız y&ouml;ntemler sayesinde hastalarımıza erken teşhis yapılarak, en g&uuml;ncel tedaviler uygulanmaktadır. G&uuml;n&uuml;m&uuml;z&uuml;n teknolojisine ayak uydurarak uyguladığımız tanı ve tedavi y&ouml;ntemlerimiz sayesinde hastalarımız rahatsızlıklarını en az sıkıntı ile atlatırken iyileşme s&uuml;recini de en etkin şekilde ge&ccedil;irmektedirler.</p>
+                    </div>
+                                        <div class="ilgili-yazilar">
+                        <div class="m-content">
+                            <div class="head">
+                                <h3>Benzer Yazılar</h3>
+                                <div class="blog">
+                                <a href="https://maltepehastanesi.com.tr/tr/makaleler?unit=60">
+                                       blog
+                                       <i class="fa-solid arrow-icon"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="slider-content">
+                                <div class="owl-carousel owl-theme" id="tup-bebek">
+                                                                        <div class="item">
+                                        <div class="content">
+                                            <div class="box-head">
+                                                                                                    <a href="https://maltepehastanesi.com.tr/tr/makaleler?unit=60&amp;category_id=4" class="btn btn-info">Üroloji</a>
+                                                                                                <div class="doctor-name d-flex">
+                                                    <div class="starter-line mt-4"></div>
+                                                    <h3>Aids</h3>
+                                                </div>
+                                                <div class="share">
+                                                    <a href="#" data-bs-toggle="modal" data-bs-target="#aids-nedir"><i class="fa-solid fa-share-nodes"></i></a>
+                                                  </div>
+                                            </div>
+                                            <div class="box-content">
+                                                <p>
+                                                AIDS; insan immun yetmezlik virüsünün  (HIV) neden olduğu edinsel bağışıklık yetmezliği sendromudur. İlk saptandığı 1980’li yıllardan bu yana, dünya genelinde hızla yayılmıştır. HIV kan yoluyla, korunmasız cinsel ilişki ile ve anneden bebeğe doğum sırasında bulaşabilir.
+                                                </p>
+                                            </div>
+                                            <div class="box-footer">
+                                                <ul>
+                                                    <li>
+                                                        <img src="https://maltepehastanesi.com.tr/img/icon/clock.png" alt="date">
+                                                        <span>22 Temmuz 2023</span>
+                                                    </li>
+                                                    <li>
+                                                        <img src="https://maltepehastanesi.com.tr/img/icon/edit.png" alt="author">
+                                                        <span>Maltepe Hastanesi</span>
+                                                    </li>
+                                                </ul>
+                                                <div class="action">
+                                                    <a href="https://maltepehastanesi.com.tr/tr/makaleler/detay/aids-nedir"><i class="fa-solid arrow-icon"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                                                        <div class="item">
+                                        <div class="content">
+                                            <div class="box-head">
+                                                                                                    <a href="https://maltepehastanesi.com.tr/tr/makaleler?unit=60&amp;category_id=4" class="btn btn-info">Üroloji</a>
+                                                                                                <div class="doctor-name d-flex">
+                                                    <div class="starter-line mt-4"></div>
+                                                    <h3>Sünnet</h3>
+                                                </div>
+                                                <div class="share">
+                                                    <a href="#" data-bs-toggle="modal" data-bs-target="#sunnet-nedir"><i class="fa-solid fa-share-nodes"></i></a>
+                                                  </div>
+                                            </div>
+                                            <div class="box-content">
+                                                <p>
+                                                Sünnet, penisi kaplayan derinin uç kısmının (sünnet derisi) dini, geleneksel veya tıbbi sebeplerden dolayı cerrahi olarak alınmasıdır. 
+
+                                                </p>
+                                            </div>
+                                            <div class="box-footer">
+                                                <ul>
+                                                    <li>
+                                                        <img src="https://maltepehastanesi.com.tr/img/icon/clock.png" alt="date">
+                                                        <span>03 Temmuz 2023</span>
+                                                    </li>
+                                                    <li>
+                                                        <img src="https://maltepehastanesi.com.tr/img/icon/edit.png" alt="author">
+                                                        <span>Maltepe Hastanesi</span>
+                                                    </li>
+                                                </ul>
+                                                <div class="action">
+                                                    <a href="https://maltepehastanesi.com.tr/tr/makaleler/detay/sunnet-nedir"><i class="fa-solid arrow-icon"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                                                        <div class="item">
+                                        <div class="content">
+                                            <div class="box-head">
+                                                                                                    <a href="https://maltepehastanesi.com.tr/tr/makaleler?unit=60&amp;category_id=4" class="btn btn-info">Üroloji</a>
+                                                                                                    <a href="https://maltepehastanesi.com.tr/tr/makaleler?unit=60&amp;category_id=5" class="btn btn-info">Kadın Hastalıkları ve Doğum</a>
+                                                                                                <div class="doctor-name d-flex">
+                                                    <div class="starter-line mt-4"></div>
+                                                    <h3>HPV Aşısı</h3>
+                                                </div>
+                                                <div class="share">
+                                                    <a href="#" data-bs-toggle="modal" data-bs-target="#hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali"><i class="fa-solid fa-share-nodes"></i></a>
+                                                  </div>
+                                            </div>
+                                            <div class="box-content">
+                                                <p>
+                                                HPV Dünya Sağlık Örgütü verilerine göre rahim ağzı kanseri kadınlarda en sık görülen dördüncü kanser tipidir
+                                                </p>
+                                            </div>
+                                            <div class="box-footer">
+                                                <ul>
+                                                    <li>
+                                                        <img src="https://maltepehastanesi.com.tr/img/icon/clock.png" alt="date">
+                                                        <span>19 Nisan 2023</span>
+                                                    </li>
+                                                    <li>
+                                                        <img src="https://maltepehastanesi.com.tr/img/icon/edit.png" alt="author">
+                                                        <span>Maltepe Hastanesi</span>
+                                                    </li>
+                                                </ul>
+                                                <div class="action">
+                                                    <a href="https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali"><i class="fa-solid arrow-icon"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                                                    </div>
+                            </div>
+                        </div>
+                                                    <div class="modal fade" id="aids-nedir" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body pt-0">
+                                            <div class="form-box pb-0">
+                                            <div class="form-content">
+                                                <div class="form-mcontent no-bg">
+                                                        <div class="sec-title">
+                                                            <h3>Paylaş : </h3>
+                                                            <h4>Aids</h4>
+                                                            <div id="social-links"><ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-facebook-square"></span></a></li><li><a href="https://twitter.com/intent/tweet?text=HPV+A%C5%9F%C4%B1s%C4%B1&url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-twitter"></span></a></li><li><a href="https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali&title=HPV+A%C5%9F%C4%B1s%C4%B1&summary=" class="social-button " id="" title="" rel=""><span class="fab fa-linkedin"></span></a></li><li><a target="_blank" href="https://wa.me/?text=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-whatsapp"></span></a></li><li><a target="_blank" href="https://www.reddit.com/submit?title=HPV+A%C5%9F%C4%B1s%C4%B1&url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-reddit"></span></a></li><li><a href="https://pinterest.com/pin/create/button/?url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-pinterest"></span></a></li><li><a target="_blank" href="https://telegram.me/share/url?url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali&text=HPV+A%C5%9F%C4%B1s%C4%B1" class="social-button " id="" title="" rel=""><span class="fab fa-telegram"></span></a></li></ul></div>
+                                                        </div>
+                                                        
+                                                </div>
+                                            </div>
+                                            </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                                                     <div class="modal fade" id="sunnet-nedir" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body pt-0">
+                                            <div class="form-box pb-0">
+                                            <div class="form-content">
+                                                <div class="form-mcontent no-bg">
+                                                        <div class="sec-title">
+                                                            <h3>Paylaş : </h3>
+                                                            <h4>Sünnet</h4>
+                                                            <div id="social-links"><ul><div id="social-links"><ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-facebook-square"></span></a></li><li><a href="https://twitter.com/intent/tweet?text=HPV+A%C5%9F%C4%B1s%C4%B1&url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-twitter"></span></a></li><li><a href="https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali&title=HPV+A%C5%9F%C4%B1s%C4%B1&summary=" class="social-button " id="" title="" rel=""><span class="fab fa-linkedin"></span></a></li><li><a target="_blank" href="https://wa.me/?text=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-whatsapp"></span></a></li><li><a target="_blank" href="https://www.reddit.com/submit?title=HPV+A%C5%9F%C4%B1s%C4%B1&url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-reddit"></span></a></li><li><a href="https://pinterest.com/pin/create/button/?url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-pinterest"></span></a></li><li><a target="_blank" href="https://telegram.me/share/url?url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali&text=HPV+A%C5%9F%C4%B1s%C4%B1" class="social-button " id="" title="" rel=""><span class="fab fa-telegram"></span></a></li></ul></div></ul></div>
+                                                        </div>
+                                                        
+                                                </div>
+                                            </div>
+                                            </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                                                     <div class="modal fade" id="hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body pt-0">
+                                            <div class="form-box pb-0">
+                                            <div class="form-content">
+                                                <div class="form-mcontent no-bg">
+                                                        <div class="sec-title">
+                                                            <h3>Paylaş : </h3>
+                                                            <h4>HPV Aşısı</h4>
+                                                            <div id="social-links"><ul><div id="social-links"><ul><div id="social-links"><ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-facebook-square"></span></a></li><li><a href="https://twitter.com/intent/tweet?text=HPV+A%C5%9F%C4%B1s%C4%B1&url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-twitter"></span></a></li><li><a href="https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali&title=HPV+A%C5%9F%C4%B1s%C4%B1&summary=" class="social-button " id="" title="" rel=""><span class="fab fa-linkedin"></span></a></li><li><a target="_blank" href="https://wa.me/?text=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-whatsapp"></span></a></li><li><a target="_blank" href="https://www.reddit.com/submit?title=HPV+A%C5%9F%C4%B1s%C4%B1&url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-reddit"></span></a></li><li><a href="https://pinterest.com/pin/create/button/?url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali" class="social-button " id="" title="" rel=""><span class="fab fa-pinterest"></span></a></li><li><a target="_blank" href="https://telegram.me/share/url?url=https://maltepehastanesi.com.tr/tr/makaleler/detay/hpv-asisi-nedir-hangi-kanserlere-karsi-koruyucudur-ergenler-kac-yasinda-asilanmali&text=HPV+A%C5%9F%C4%B1s%C4%B1" class="social-button " id="" title="" rel=""><span class="fab fa-telegram"></span></a></li></ul></div></ul></div></ul></div>
+                                                        </div>
+                                                        
+                                                </div>
+                                            </div>
+                                            </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                                             </div>
+                                    </div>
+                <div class="col-md-12 col-xl-4 birim-doktorlari">
+                                        <div class="title">
+                        <h3>Birim Doktorları</h3>
+                    </div>
+                                        <div class="doktorpro ">
+                        <div class="image">
+                            <img class="rounded-circle" src="https://maltepehastanesi.com.tr/storage/doctors/February2023/S90cwXQbJz1sf1ntW8Qq.png" alt="Ahmet Kenan Karademir">
+                        </div> 
+                        <div class="text">
+                            <div class="text-cont">
+                                <div class="doctor-name d-flex">
+                                    <div class="starter-line"></div>
+                                    <h3>Prof. Dr. Ahmet Kenan Karademir</h3>
+                                </div>
+                                <div class="descreption">
+                                    <p>Üroloji</p>
+                                </div> 
+                            </div>
+                        </div> 
+                        <div class="actions">
+                        <ul>
+                            <li>
+                                <a href="https://maltepehastanesi.com.tr/tr/online-randevu" class="btn btn-info"><img src="https://maltepehastanesi.com.tr/img/icon/date.png" alt="date"></a>
+                            </li>
+                            <li>
+                                <a href="https://maltepehastanesi.com.tr/tr/doktor-detay/prof-dr-ahmet-kenan-karademir" class="btn btn-secondary"><span class="icon"><i class="fa-solid arrow-icon"></i></span></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                                    <div class="doktorpro mt-3">
+                        <div class="image">
+                            <img class="rounded-circle" src="https://maltepehastanesi.com.tr/storage/doctors/February2023/hUd9R5Fm4n0e6MBWmAB4.png" alt="Hasan Soydan">
+                        </div> 
+                        <div class="text">
+                            <div class="text-cont">
+                                <div class="doctor-name d-flex">
+                                    <div class="starter-line"></div>
+                                    <h3>Prof. Dr. Hasan Soydan</h3>
+                                </div>
+                                <div class="descreption">
+                                    <p>Üroloji</p>
+                                </div> 
+                            </div>
+                        </div> 
+                        <div class="actions">
+                        <ul>
+                            <li>
+                                <a href="https://maltepehastanesi.com.tr/tr/online-randevu" class="btn btn-info"><img src="https://maltepehastanesi.com.tr/img/icon/date.png" alt="date"></a>
+                            </li>
+                            <li>
+                                <a href="https://maltepehastanesi.com.tr/tr/doktor-detay/prof-dr-hasan-soydan" class="btn btn-secondary"><span class="icon"><i class="fa-solid arrow-icon"></i></span></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                                    
+                   <div class="doktora-sorun">
+    <form action="https://maltepehastanesi.com.tr/tr/tibbi-birimlerimiz" method="POST">
+        <input type="hidden" name="_token" value="F0mySadNnj6ZAkMlGgKdvPGLaJJfaFfD8zWxdSv7">        <div class="content">
+        <h4>Doktora Sorun, Öğrenin</h4>
+            
+            <div class="item">
+                <label for="exampleInputEmail1" class="form-label">Ad Soyad</label>
+                <input type="text" name="user_name" class="form-control" placeholder="İsim giriniz" required>
+            </div>
+            <div class="item">
+                <label for="exampleInputEmail1" class="form-label">E-posta</label>
+                <input type="email" name="email" class="form-control" placeholder="@email.com">
+            </div>
+            <div class="item">
+                <label for="exampleInputEmail1" class="form-label">Mesaj</label>
+                <textarea class="form-control" name="message" id="" required cols="30" rows="5" placeholder="Detaylıca yazınız"></textarea>
+            </div>
+            <div class="mb-3 form-check item">
+                <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
+                <label class="form-check-label" for="exampleCheck1">Kişisel verilerimin pazarlama faaliyetlerinde kullanılmasına ve iletişim bilgilerime elektronik ileti gönderilmesine onay veriyorum. </label>
+            </div>
+            <div class="item">
+                <button class="btn btn-primary">Gönder</button>
+            </div>
+        </div>
+    </form>
+
+
+</div>                </div>
+            </div>
+        </div>
+    </div>
+    <!-- kvkk-section ==---------------------------- -->
+    </div>
+
+<section class="footer-section">
+    <div class="container">
+       <div class="row">
+          <div class="col-md-6 text">
+             <a href="https://maltepehastanesi.com.tr/tr/iletisim"><h3>İletişim</h3></a>
+             <div class="info">
+                <ul>
+                   <li><img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/location-pin.png" alt="">
+                      <p>Feyzullah cad. No:39 Maltepe / İstanbul</p>
+                   </li>
+                   <li><a href="mailto:info@maltepehastanesi.com.tr"><img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/mail.png" alt="">info@maltepehastanesi.com.tr</a></li>
+                </ul>
+             </div>
+             <div class="help">
+                <h4>Yardım &amp; Destek</h4>
+                <ul>
+                   <li><a href="tel:4440620"><img class="lazyload" data-src="https://maltepehastanesi.com.tr/img/icon/noun-phone.png" alt=""> <span class="phone">444 06 20</span></a></li>
+                   <li><a href="tel:08508110251" class="phone">0850 811 02 51</a></li>
+                </ul>
+             </div>
+             <div class="social-media">
+                <ul>
+                  <li><a target="_blank" href="https://www.youtube.com/channel/UCGYFM1EzmkMN3B1hno4FRWg"><i class="fa-brands fa-youtube"></i></a></li>                  <li><a target="_blank" href="https://twitter.com/maltepehastane"><i class="fa-brands fa-twitter"></i></a></li>                  <li><a target="_blank" href="https://www.facebook.com/Maltepehastanesi/"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>                  <li><a target="_blank" href="https://www.instagram.com/maltepehastanesi/"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>                                  </ul>
+             </div>
+             <div class="verigizlik">
+                <h3>VERİ GİZLİLİK</h3>
+               <ul>
+                           
+                        <li><a href="https://maltepehastanesi.com.tr/tr/sayfa/gizlilik-politikasi">Gizlilik Politikası</a></li>
+                           
+                        <li><a href="https://maltepehastanesi.com.tr/tr/sayfa/kvkk">KVKK</a></li>
+                           
+                        <li><a href="https://maltepehastanesi.com.tr/tr/sayfa/bilgi-g%C3%BCvenligi-politikasi">Bilgi Güvenliği Politikası</a></li>
+                                 </ul>
+             </div>
+          </div>
+          <div class="col-md-6 right">
+             <div class="top">
+                <h3>MÜ Hastane BÜLTeN</h3>
+                <p>Haberlerden, duyurulardan, kampanyalar ve daha fazlasından haberdar olmak için kayıt olunuz.</p>
+                <form action="https://maltepehastanesi.com.tr/tr/bulten" method="POST">
+                  <input type="hidden" name="_token" value="F0mySadNnj6ZAkMlGgKdvPGLaJJfaFfD8zWxdSv7">                  <div class="mail-sec">
+                     <div class="input-group">
+                        <input type="email" name="email" class="form-control" placeholder="E-posta adresinizi giriniz">
+                        <button>Kayıt Ol</button>
+                     </div>
+                  </div>
+                  </form>
+             </div>
+             <div class="bottom">
+               <ul>
+                                             <li>
+                  <a href="https://mek.k12.tr/" target="_blank">
+                     <img class="lazyload" data-src=https://maltepehastanesi.com.tr/storage/footer-logos/February2023/sWGU9ushx2QTH2c60lWv.png alt="https://mek.k12.tr/">
+                  </a>
+               </li>
+                                              <li>
+                  <a href="https://www.maltepe.edu.tr/mikam" target="_blank">
+                     <img class="lazyload" data-src=https://maltepehastanesi.com.tr/storage/footer-logos/February2023/dzent0ppcvka5kazMucG.png alt="https://www.maltepe.edu.tr/mikam">
+                  </a>
+               </li>
+                                              <li>
+                  <a href="" target="_blank">
+                     <img class="lazyload" data-src=https://maltepehastanesi.com.tr/storage/footer-logos/July2023/SnbmQLBdWHyrNp6PyqRh.png alt="">
+                  </a>
+               </li>
+                                              <li>
+                  <a href="https://temos-accreditation.com/AccreditedPartners/Details.aspx?id=16777" target="_blank">
+                     <img class="lazyload" data-src=https://maltepehastanesi.com.tr/storage/footer-logos/July2023/J8YI0gMTZM0ENHMirHwH.png alt="https://temos-accreditation.com/AccreditedPartners/Details.aspx?id=16777">
+                  </a>
+               </li>
+                               </ul>
+                <p>© 2023 Maltepe Üniversitesi Tıp Fakültesi Hastaneleri Tüm hakları saklıdır.</p>
+             </div>
+
+          </div>
+       </div>
+    </div>
+ </section>
+ 
+ <div class="modal fade" id="getWellModal" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="form-box pb-0">
+                    <div class="form-content">
+                        <div class="form-mcontent no-bg">
+                            <div class="text d-block">
+                                <h3>E-Geçmiş Olsun</h3>
+                                <p>Hastanemizde yatmakta olan yakınlarınıza geçmiş olsun dileklerinizi iletin.</p>
+                            </div>
+                            <form action="https://maltepehastanesi.com.tr/tr/e-gecmis-olsun" method="POST" class="formWithPhone">
+                               
+                                <input type="hidden" name="_token" value="F0mySadNnj6ZAkMlGgKdvPGLaJJfaFfD8zWxdSv7">                                
+                                <div class="row">
+                                    <div class="mb-3 col-md-12 col-lg-4 col-xl-4">
+                                        <label class="form-label">Yakınınızın Adı Soyadı <span>*</span></label>
+                                        <input type="text" name="patientName" required class="form-control" placeholder="Ad Soyad" >
+                                    </div>
+                                    <div class="mb-3 col-md-12 col-lg-4 col-xl-4">
+                                        <label class="form-label">Adınız Soyadınız <span>*</span></label>
+                                        <input type="text" required name="senderName" class="form-control" placeholder="Ad Soyad" >
+                                    </div>
+
+                                    <div class="mb-3 col-md-12 col-lg-4 col-xl-4">
+                                        <label class="form-label">Telefon  <span>*</span></label>
+                                        <input class="form-control phone-code" required list="datalistOptions" type="text"
+                                            placeholder="">
+                                        <input type="hidden" name="phone" class="phone-field">
+                                    </div>
+                                    <div class="mb-3 col-md-12 col-xl-12">
+                                        <label class="form-label">Mesaj</label>
+                                        <textarea name="message" required id="" cols="30" rows="4" class="form-control"
+                                            placeholder="Mesaj"></textarea>
+                                    </div>
+                                    <div class="row">
+                                        <div class="mb-3 col-md-12 col-lg-10">
+                                            <div class="form-check">
+                                                <input class="form-check-input mt-1" required type="checkbox"
+                                                    name="flexRadioDefault" id="flexRadioDefault1" required>
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Kişisel verilerimin pazarlama faaliyetlerinde kullanılmasına ve iletişim bilgilerime elektronik ileti gönderilmesine onay veriyorum. 
+                                                </label>
+                                            </div>
+                                        </div>
+                                        <div class="mb-3 col-md-12 col-lg-2 text-center">
+                                            <button class="btn btn-primary ps-5 pe-5">Gönder</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> <div class="modal fade" id="opinionsSuggestions" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="form-box pb-0">
+                    <div class="form-content">
+                        <div class="form-mcontent no-bg">
+                            <div class="text d-block">
+                                <h3>Görüş ve Önerileriniz (Hasta ve Personel)</h3>
+                                <p>Görüş ve Önerileriniz Özeti</p>
+                            </div>
+                            <form action="https://maltepehastanesi.com.tr/tr/oneri" method="POST" class="formWithPhone">
+                               
+                                <input type="hidden" name="_token" value="F0mySadNnj6ZAkMlGgKdvPGLaJJfaFfD8zWxdSv7">                                
+                                <div class="row">
+                                    <div class="mb-3 col-md-12 col-lg-4 col-xl-3">
+                                        <label class="form-label">Ad <span>*</span></label>
+                                        <input type="text" name="first_name" required class="form-control" placeholder="Ad" >
+                                    </div>
+                                    <div class="mb-3 col-md-12 col-lg-4 col-xl-3">
+                                        <label class="form-label">Soyad <span>*</span></label>
+                                        <input type="text" required name="last_name" class="form-control" placeholder="Soyad" >
+                                    </div>
+
+                                    <div class="mb-3 col-md-12 col-lg-4 col-xl-3">
+                                        <label class="form-label">E-mail <span>*</span></label>
+                                        <input type="email" required name="email" class="form-control" placeholder="@email.com" >
+                                    </div>
+
+                                    <div class="mb-3 col-md-12 col-lg-4 col-xl-3">
+                                        <label class="form-label">Telefon  <span>*</span></label>
+                                        <input class="form-control phone-code" required list="datalistOptions" type="text"
+                                            placeholder="">
+                                        <input type="hidden" name="phone" class="phone-field">
+                                    </div>
+                                    <div class="mb-3 col-md-12 col-xl-12">
+                                        <label class="form-label">Mesaj</label>
+                                        <textarea name="message" required id="" cols="30" rows="4" class="form-control"
+                                            placeholder="Mesaj"></textarea>
+                                    </div>
+                                    <div class="row">
+                                        <div class="mb-3 col-md-12 col-lg-10">
+                                            <div class="form-check">
+                                                <input class="form-check-input mt-1" required type="checkbox"
+                                                    name="flexRadioDefault" id="flexRadioDefault1" required>
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Kişisel verilerimin pazarlama faaliyetlerinde kullanılmasına ve iletişim bilgilerime elektronik ileti gönderilmesine onay veriyorum. 
+                                                </label>
+                                            </div>
+                                        </div>
+                                        <div class="mb-3 col-md-12 col-lg-2 text-center">
+                                            <button class="btn btn-primary ps-5 pe-5">Gönder</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+ <script src="//cdn.jsdelivr.net/npm/goodshare.js@6/goodshare.min.js"></script>
+ <script src="https://maltepehastanesi.com.tr/lib/jquery/jquery-3.6.0.min.js"></script>
+ <script src="https://maltepehastanesi.com.tr/lib/OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
+ <script src="https://maltepehastanesi.com.tr/lib/bootstrap-5.2.0/js/bootstrap.bundle.min.js"></script>
+ <script src="https://maltepehastanesi.com.tr/lib/fancybox/dist/jquery.fancybox.min.js"></script>
+ <script src="https://maltepehastanesi.com.tr/lib/lazysizes/lazysizes.min.js" async></script>
+ 
+ <script src="https://maltepehastanesi.com.tr/lib/jquery-nice-select-1.1.0/js/jquery.nice-select.js"></script>
+ <script src="https://maltepehastanesi.com.tr/js/toastr.min.js"></script>
+ 
+ <script src="https://maltepehastanesi.com.tr/js/script.js"></script>
+ <script src="https://maltepehastanesi.com.tr/lib/intl-tel-input-master/build/js/intlTelInput-jquery.min.js"></script> 
+<script>
+   document.addEventListener('DOMContentLoaded', function() {
+       var dir = document.documentElement.getAttribute('dir'); 
+       
+       var chevronIcons = document.querySelectorAll('.chevron-icon');
+       chevronIcons.forEach(function(icon) {
+           icon.classList.remove('fa-chevron-right', 'fa-chevron-left'); 
+           icon.classList.add('fa-solid', dir === 'rtl' ? 'fa-chevron-left' : 'fa-chevron-right'); 
+       });
+
+       var chevronIcons = document.querySelectorAll('.chevron-icon-revers');
+       chevronIcons.forEach(function(icon) {
+           icon.classList.remove('fa-chevron-right', 'fa-chevron-left'); 
+           icon.classList.add('fa-solid', dir === 'rtl' ? 'fa-chevron-right' : 'fa-chevron-left'); 
+       });
+
+       var chevronIcons = document.querySelectorAll('.arrow-icon');
+       chevronIcons.forEach(function(icon) {
+           icon.classList.remove('fa-arrow-right', 'fa-arrow-left'); 
+           icon.classList.add('fa-arrow', dir === 'rtl' ? 'fa-arrow-left' : 'fa-arrow-right'); 
+       });
+
+       
+   });
+</script>
+
+</body>
+
+</html>

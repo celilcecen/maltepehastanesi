@@ -1,0 +1,2121 @@
+/* 1400px==------------------------------ */
+@media (max-width:1400px) {
+  .heade-social-media{
+    bottom: 60px;
+  }  
+  .header .upper .right .contact .content .links {
+  } 
+  .header .upper .right .contact .content{
+    padding-top: 9px;
+    padding-bottom: 8px;
+  }
+  .header .upper .right .announcement{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .header .upper .right .announcement .content{
+    width: 100%;
+  }
+  .header .bottom .left .links-sec ul li a{
+    padding: 8px 9px;
+  } 
+
+  /* slider bottom ---- */ 
+  .evdesaglik ul{
+    padding-left: 0;
+  }
+  [dir=rtl] .evdesaglik ul{
+    padding-right: 0;
+  }
+  .helper-search{
+    padding-left: 12px;
+  }
+  [dir=rtl] .helper-search{
+    padding-left: 0;
+    padding-right: 12px;
+  }
+  .slider-bottom{
+    display: block;
+    background-color: #9D258999;
+    position: absolute;
+    bottom: 0;
+    z-index: 99;
+    width: 100%;
+  }
+  .slider-section .item .image img{
+    filter: brightness(0.5);
+  }
+  .slider-section .item .image video{
+    filter: brightness(0.5);
+  }
+  .evdesaglik ul li a{
+    padding: 4px 0;
+  }
+  .evdesaglik {
+    /* margin-bottom: 20px; */
+  }
+  .slider-section .helper-search .content h4{
+    font-size: 23px;
+  }
+  .slider-bottom .helper-search .content{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 12px;
+    background-color: transparent;
+  }
+  .slider-bottom .helper-search .content .form-sec{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .slider-bottom .helper-search .content h4{
+    display: inline-block;
+    font-size: 23px;
+  }
+  .slider-bottom .helper-search .content .form-sec .input-group:first-child{
+    width: 82%;
+  }
+  .slider-bottom .helper-search .content .form-sec .input-group:last-child{
+    width: 15%;
+  }
+  .slider-bottom .helper-search .content::after {
+    opacity: 0.4;
+  }
+
+  .slider-section .item .video{
+    margin-top: 192px;
+  }
+  /* slider bottom ---- */
+
+  /* blog -------------- */
+  .blog-section .boxes .top .owl-carousel .owl-nav{
+    right: 330px;
+  }
+  .blog-section .boxes .top .owl-carousel.left .owl-nav{
+    left: 380px;
+  }
+  /* blog -------------- */
+
+  /* package -------------- */
+  .package-section .item .links .list ul{
+    padding-top: 10px;
+  }
+  .package-section .item .links .top .img {
+    width: 23px;
+  }
+  .package-section .item .links .top h3{
+    width: calc(100% - 23px);
+  }
+  .package-section .item .links .top h3{
+    font-size: 14px;
+  }
+  /* package -------------- */
+  /* footer -------------- */
+  .footer-section{
+    padding-bottom: 9em;
+    background-position: -90px 0;
+  }
+  /* footer -------------- */
+
+  /* menu -------------- */
+  .menu-section .rightbar .rightbar-content .head .left .search{
+    padding-left: 10px;
+  }
+  .menu-section .rightbar .rightbar-content .head .left .search .type{
+    width: 19vh;
+  }
+  /* menu -------------- */
+  .doktor-section .fixed-letters{
+    bottom: 150px;
+  }
+
+
+ 
+
+}
+/* 1400px==------------------------------ */
+
+/* 1300==------------------------------ */
+@media (max-width:1310px) {
+  .sticky-menu .upper .logo img {
+    max-width: 230px;
+  } 
+  .header .upper .right .contact .content .links{
+    display: none;
+  }
+}
+/* 1300==------------------------------ */
+
+/* 1200==------------------------------ */
+@media (max-width:1200px) { 
+  .header .upper .right .contact{
+    border-right: none;
+  }
+  .header .upper .right .announcement{
+    display: none;
+  }
+  .evde-saglik .saglik-content .services{
+    background-image: none;
+  }
+  .slider-section .item .caption .content .text{
+    width: 380px;
+  }
+  .slider-section .item .caption h3{
+    font-size: 29px;
+  }
+  /* about ----------------- */
+  .aboutus-section .bottom .text{
+    padding-left: 30px;
+  }
+  [dir=rtl] .aboutus-section .bottom .text{
+    padding-right: 30px;
+    padding-left: 0;
+  }
+  /* about ----------------- */
+
+  /* blog -------------- */
+  .blog-section .boxes .top .owl-carousel .owl-nav{
+    right: 350px;
+  }
+  .blog-section .boxes .bottom .item .content .image{
+    height: 220px;
+  }
+  .blog-section .boxes .bottom .item .content .text {
+    padding: 10px 10px 10px 10px;
+  }
+  .blog-section .boxes .bottom .item .content .text h5 {
+    margin-top: 9px;
+  }
+  .blog-section .boxes .bottom .item .content .foot-btn a{
+    width: 40px;
+    height: 40px;
+  }
+  /* blog -------------- */
+
+
+  /* footer -------------- */
+  .footer-section{
+    background-position: -80px 0;
+  }
+  .footer-section .right .bottom ul li{
+    margin-bottom: 10px;
+  }
+  .footer-section .right .bottom ul li:last-child{
+    margin-bottom: 0;
+  }
+  .footer-section .right .top .mail-sec .input-group .form-control{
+    height: 46px;
+  }
+  /* footer -------------- */
+
+  /* program -------------- */
+  .program-section .points{
+    right: -50px;
+  }
+  /* program -------------- */
+  
+  /* menu -------------- */
+  .menu-section .rightbar .rightbar-content .head .right .actions ul li{
+    margin: 0 4px;
+  }
+  .menu-section .rightbar .rightbar-content .head .right .actions ul li .lokasyon a{
+    padding: 3px 7px;
+  }
+  .menu-section .rightbar .rightbar-content .head .right .actions ul li .dropdown .btn{
+    padding: 3px 6px;
+  }
+  .menu-section .rightbar .rightbar-content .head .right .actions ul li .home a img {
+    width: 26px;
+  }
+  .menu-section .sidebar .content .centersec{
+    padding: 30px 10px 0 10px;
+  }
+  .menu-section .nav-pills .nav-link{
+    font-size: 16px;
+    padding: 8px 11px;
+  }
+  .menu-section .sidebar .content .topsec{
+    padding: 20px 15px 0 15px;
+  }
+  .menu-section .sidebar .content .centersec ul li a{
+    font-size: 16px;
+    padding: 8px 11px;
+  }
+  .menu-section .rightbar .rightbar-content .head .left .search .icon{
+    width: 33px;
+    height: 46px;
+  }
+  .menu-section .rightbar .rightbar-content .head .left .search .type .input-group .form-control{
+    height: 46px;
+  }
+  .menu-section .rightbar .rightbar-content .head .left .search .search-btn button{
+    height: 46px;
+    width: 34px;
+  }
+  .menu-section .rightbar .rightbar-content .head .right .actions ul li .lokasyon a{
+    font-size: 14px;
+  }
+  .menu-section .rightbar .rightbar-content .head .right .actions ul li .lokasyon .icon img {
+    width: 18px;
+  }
+
+  .menu-section .rightbar .rightbar-content .head .right .actions ul li .dropdown .flag img{
+    width: 19px;
+  height: 19px;
+  }
+  .menu-section .rightbar .rightbar-content .head .right .actions ul li .dropdown .icon img {
+    width: 18px;
+  }
+  .menu-section .rightbar .rightbar-content .center .content ul li{
+    margin-bottom: 19px;
+  }
+  .menu-section .sidebar .content .topsec .logo img {
+    width: 97%;
+  }
+  .menu-section .rightbar .rightbar-content .head .right .actions ul li .dropdown .icon {
+    margin-right: 3px;
+  }
+  .menu-section .rightbar .rightbar-content .head .right .actions ul li .lokasyon .icon {
+    margin-right: 1px;
+  }
+  .menu-section .sidebar .content .bottomsec{
+    display: none;
+  }
+  .evdesaglik{  
+  }
+  .menu-section .rightbar .rightbar-content .footer{
+  }
+  .menu-section .rightbar .rightbar-content .footer .saglik-row{
+    height: auto;
+    padding: 0;
+    display: block;
+  }
+  .menu-section .rightbar .rightbar-content .footer .evdesaglik{
+    display: block;
+    position: initial;
+  }
+  .menu-section .rightbar .rightbar-content .footer .saglik-row:first-child{
+    display: none;
+  }
+  /* menu -------------- */
+
+  /* Doktorlarımız -------------- */
+  .doktor-section .text .lists{
+    padding-bottom: 60px;
+  }
+  .doktor-section .randevu h3{
+    font-size: 23px;
+  }
+  /* Doktorlarımız -------------- */
+
+  /* tibbi_birimleri -------------- */
+  .doktor-section .filter-bar .letters .letter-list ul li a{
+    font-size: 20px;
+    width: 40px;
+  }
+  .letters-listbar-section .item .left h3{
+    font-size: 65px;
+  }
+  .letters-listbar-section .item .left{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .doktor-section.tibbi-birimleri .filter-bar-sec {
+    margin-top: 0;
+    padding-top: 20px;
+  }
+  .doktor-section .top-sec{
+    padding-bottom: 110px;
+  }
+  .doktor-section.tibbi-birimleri{
+    padding-bottom: 0;
+  }
+  /* tibbi_birimleri -------------- */
+
+  /* TUP-BEBEK -------------- */
+  .sm-banner .content{
+    height: 220px;
+  }
+  .sm-banner .content .text h3{
+    font-size: 27px;
+  }
+  .sm-banner .content .text .video a{
+    width: 45px;
+    height: 45px;
+  }
+  .tup-bebek-section{}
+  .tup-bebek-section .container{} 
+  .tup-bebek-section .container > .row{ 
+  }
+  .tup-bebek-section .birim-doktorlari{
+    margin-top: 3em;
+
+  }
+  .tup-bebek-section .birim-doktorlari .title h3{
+    font-size: 23px;
+  }
+  .tup-bebek-section .birim-doktorlari .doktora-sorun{
+    margin-bottom: 4em;
+  }
+  .tup-bebek-section .birim-doktorlari .doktora-sorun .content .item .btn{
+    width: 28%;
+  }
+  .tup-bebek-section .birim-doktorlari .doktora-sorun {
+    margin-top: 2em;
+  }
+  /* TUP-BEBEK -------------- */
+
+  /* error --------- */
+  .error-page .main-content .details .text {
+    width: 83%;
+  }
+  /* error --------- */
+  
+/* Checkup --------- */
+.lists-box .item .bottom .sm-item {
+  width: 33%;
+}
+/* Checkup --------- */
+
+/* checkup-kadın --------- */
+.checkup-kadin-section .top .right .contact-info{
+  justify-content: start;
+}
+.checkup-kadin-section .top .right .contact-info{
+  padding-top: 0;
+}
+.checkup-kadin-section .top{
+  padding-bottom: 30px;
+}
+.checkup-kadin-section .bottom .item {
+  width: 33%;
+  margin-bottom: 20px;
+}
+.checkup-kadin-section .bottom .checkup-item{
+  width: 33%;
+}
+.checkup-kadin-section .bottom .checkup-item .checkup .checkup-content{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 100%;
+}
+.checkup-kadin-section .bottom .checkup-item .checkup h3{
+  font-size: 23px;
+}
+/* checkup-kadın --------- */
+
+/* contact --------- */
+.maps-sec .item .text .help .bottom ul li{
+  padding-right: 5px;
+  margin-right: 4px;
+}
+/* contact --------- */
+
+/* blog --------- */ 
+.blogpage-section .sidebar-search .en-son-yazilar.desktop{
+  display: none;
+}
+.blogpage-section .sidebar-search .en-son-yazilar.mobile{
+  display: block;
+}
+/* blog --------- */
+
+/* evde-saglik --------- */
+.evde-saglik .saglik-content .services .boxes .item .content{
+  padding: 3px 6px;
+}
+/* evde-saglik --------- */
+.header .upper .right .contact .content .links{
+  display: none;
+}
+.aciltip .item .content .text h3{
+  font-size: 30px;
+} 
+[dir=rtl] .aciltip{
+  left: auto;
+  right: -76vw;
+}
+}
+/* 1200==------------------------------ */
+
+/* 1150==------------------------------ */
+@media (max-width:1150px) {
+
+  .header .bottom .left .logo {
+    width: 290px;
+  }
+  .header .upper .right .contact .content .actions ul li .home a img {
+    width: 28px;
+  }
+  .header .upper .right .contact .content .actions ul li .dropdown .text h4{
+    font-size: 14px;
+  }
+  .header .upper .right .contact .content .actions ul li .lokasyon a{
+    font-size: 14px;
+  }
+  .header .upper .right .contact .content .actions ul li .lokasyon .icon img {
+    width: 18px;
+  }
+  .header .upper .right .contact .content .actions ul li .dropdown .icon{
+    width: 18px;
+  }
+  .slider-section .item .caption h3{
+    font-size: 30px;
+  }
+}
+/* 1150==------------------------------ */
+
+/* 1024px==------------------------------ */
+@media (max-width:1024px) { 
+  .aciltip .item .content .text h3 {
+    font-size: 22px;
+  }
+  .aciltip{
+    top: -480px;
+left: -240px;
+  }
+  [dir=rtl] .aciltip{
+    left: auto;
+    right: -73vw;
+  }
+  .evdesaglik{
+    margin-bottom: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    z-index: 99999;
+    padding: 0;
+  }
+  .evdesaglik ul li .icon{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  .evdesaglik ul li .icon img{
+    width: 30px;
+    margin-right: 10px;
+  }
+  .header .bottom .left{
+    width: 100%;
+  }
+ 
+  .slider-bottom .helper-search{
+    display: block !important;
+  }
+  .slider-section .helper-search{
+    display: none;
+  }
+  .helper-search{
+    padding-left: 0;
+  }
+  [dir=rtl] .helper-search{
+    padding-right: 0;
+  }
+  .slider-section .main-slider .owl-dots{
+    bottom: 186px;
+  }
+  /* menu -------------- */ 
+  .menu-section .rightbar .rightbar-content .head .left .search .type {
+    width: 14vh;
+  }
+  /* menu -------------- */
+  /* program-section ------------------ */
+  .program-section .image{
+    width: 100%;
+  }
+  .program-section .text{
+    width: 100%;
+  }
+  .program-section .scroll-bar{
+    display: block;
+  }
+  .program-section .points{
+    display: none;
+  }
+  .program-section .text .content{
+    padding-top: 40px;
+    text-align: center;
+    width: 100%;
+  }
+  .program-section .text .content h3{
+    margin-bottom: 0;
+  }
+  .program-section .text .content p{
+    padding-top: 0;
+  }
+  .program-section .text .content .download ul{
+    justify-content: center;
+  }
+  .program-section .image img{
+    margin: 0 auto;
+    display: block;
+  }
+  .program-section{
+    padding-bottom: 5em;
+  }
+  /* program-section ------------------ */
+  
+  /* menu -------------- */
+  .menu-section .rightbar .rightbar-content{
+    background-size: 310px;
+  }
+  .sticky-menu .evdesaglik{
+    display: none;
+  }
+  .evdesaglik-item{
+    display: none;
+  }
+  /* menu -------------- */
+
+}
+/* 1024px==------------------------------ */
+
+/* 991px==------------------------------ */
+@media (max-width:992px) { 
+  
+  .doktordetay-bg{
+    background-size: cover;
+    background-position: center;
+  }
+  .header .upper .right .contact .content .actions ul li{
+    margin-right: 0;
+    margin-right: 7px;
+  }
+  .header .upper .right .contact .content .actions ul li .dropdown .flag {
+    margin-left: 0;
+  }
+  .header .upper .right .contact .content .actions ul li .dropdown .icon {
+    margin-right: 4px;
+    display: none;
+  }
+  .header .upper .right .contact .content .actions ul li .dropdown .btn{
+    border: none;
+    padding: 0;
+  }
+  .header .upper .right .contact .content .actions ul li .dropdown > .btn:hover{
+    border: none !important;
+    padding: 0;
+    background-color: transparent !important;
+  }
+  .header .upper .right .contact .content .actions ul li .dropdown .flag img{
+    width: 23px;
+    height: 23px;
+  }
+  .header .upper .right .contact .content .actions ul li .dropdown .text h4{
+    display: none;
+  }
+  .slider-section .item .video{
+    margin-right: 120px;
+  }
+  [dir=rtl] .slider-section .item .video{
+    margin-left: 120px;
+    margin-right: auto;
+  }
+  .aciltip a{
+    font-size: 28px;
+  }
+  [dir=rtl] .aciltip{
+    left: auto;
+    right: -71vw;
+  }
+  /* about ----------------- */
+  .aboutus-section .bottom .image{
+    margin-bottom: 50px;
+  }
+  .aboutus-section .bottom .text .left .item h3{
+    font-size: 31px;
+  }
+  .aboutus-section .bottom .text .right .item h3{
+    font-size: 31px;
+  }
+  .aboutus-section .bottom .text .left .item{
+    display: flex;
+flex-wrap: wrap;
+  }
+  .aboutus-section .bottom .text .left .item h4{
+    padding-left: 10px;
+    padding-top: 8px;
+  }
+  .aboutus-section .bottom .text .left .item strong{
+    display: block;
+    width: 100%;
+  }
+  .aboutus-section .bottom .text .left .item {
+    margin-bottom: 0;
+  }
+  .aboutus-section .bottom .text .left {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #d8d8d8;
+    margin-bottom: 30px;
+  }
+  .aboutus-section .bottom .text .left .item h5{
+    margin-bottom: 0;
+  }
+  .aboutus-section .bottom .text .left .item div{
+    padding-left: 10px;
+  }
+  .aboutus-section .bottom .text{
+    padding-left: calc(var(--bs-gutter-x) * .5);
+  }
+  .aboutus-section .bottom .text .right{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .aboutus-section .bottom .text .right .item{
+    width: 50%;
+  }
+  .aboutus-section .bottom .text .right::after{
+    display: none;
+  }
+  .aboutus-section .bottom .text .right .item{
+    border-bottom: 0;
+  }
+  .aboutus-section .bottom .text .right .item:first-child{
+    border-right: 1px solid #d8d8d8;
+  }
+  [dir=rtl] .aboutus-section .bottom .text .right .item:first-child{
+    border-right: 0;
+    border-left: 1px solid #d8d8d8;
+  }
+  .aboutus-section .bottom .text .right .item:last-child{
+    padding-left: 30px;
+  }
+  [dir=rtl] .aboutus-section .bottom .text .right .item:last-child{
+    padding-right: 30px;
+    padding-left: 0;
+  }
+  .aboutus-section, [dir=rtl] .aboutus-section{
+    background-image: url("../img/png/about2.png");
+    background-size: 520px;
+  }
+  /* about ----------------- */
+
+  /* blog -------------- */
+  .blog-section .boxes .top .owl-carousel .owl-nav {
+    right: 310px;
+  }
+  .blog-section .boxes .top .text .content .slider-content .text-content h3{
+    font-weight: 700;
+    font-size: 23px;
+  }
+  .blog-section .boxes .top .text .content .slider-content .text-content span{
+    font-size: 18px;
+  }
+  .blog-section .boxes .top .text .content .slider-content .text-content p{
+    margin-top: 11px;
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+  .blog-section .boxes .top .image .content {
+    height: 340px;
+  }
+  /* blog -------------- */
+
+  /* package -------------- */
+  .package-section .item .links .top h3{
+    font-size: 17px;
+  }
+  .package-section .item:last-child {
+    margin-top: 0em;
+  }
+  .package-section .row{
+    background-image: none;
+  }
+  /* package -------------- */
+
+  /* footer -------------- */
+  .footer-section .text .help ul li a{
+    font-size: 19px;
+  }
+  /* footer -------------- */
+
+
+  /* program -------------- */
+  .program-section .points{
+    display: none;
+  }
+  .program-section .text .content{
+    width: 100%;
+  } 
+  .program-section .text .content h3{
+    font-size: 20px;
+  }
+  .program-section .text .content h4 {
+    font-size: 25px;
+  }
+
+  /* program -------------- */
+
+  /* menu -------------- */
+  .menu-section .rightbar .rightbar-content .head .right .actions{
+    display: none;
+  }
+  .menu-section .rightbar .rightbar-content .head .right{
+    display: none;
+  }
+  .menu-section .rightbar .rightbar-content .head .left{
+    width: 100%;
+  }
+  .menu-section .rightbar .rightbar-content .head .left .search .type {
+    width: 23vh;
+  }
+  .menu-section .rightbar .rightbar-content .head .left{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+  } 
+  [dir=rtl] .menu-section .rightbar .rightbar-content .head .left{
+    justify-content: right;
+  }
+  .menu-section .rightbar .rightbar-content .center{
+    padding: 50px 20px 0 10px;
+  }
+  .menu-section .rightbar .rightbar-content .footer .left ul li a{
+    padding: 14px 20px; 
+  }
+  .menu-section .rightbar .rightbar-content .footer .left ul li h4{
+    margin-bottom: 0;
+  }
+  .menu-section .rightbar .rightbar-content .center .content ul li a{
+    padding: 8px 4px;
+    font-size: 16px;
+    display: block;
+    font-size: 16px;
+
+  } 
+  /* menu -------------- */
+
+  /* doktor-detay -------------- */
+  .doktordetay-section .profile-sec .image{
+    margin: 0 auto;
+  }
+  .doktordetay-section .profile-sec{ 
+    box-shadow: none;
+  }
+  .doktordetay-section .profile-sec .details{
+    padding-top: 20px;
+  } 
+  .doktordetay-section .profile-sec .details h3{
+    text-align: center;
+  }
+  .doktordetay-section .profile-sec .action {
+    padding-top: 1em;
+  }
+  .doktordetay-section .profile-text .main-content{
+    padding-left: 0;
+    padding-top: 2em;
+  }
+  .doktordetay-section{
+    background-position: left top;
+background-size: 220px;
+    padding-bottom: 3em;
+  }
+  /* doktor-detay -------------- */
+
+  /* Doktorlarımız -------------- */
+  .doktor-section .content .container > .row{}
+  .doktor-section .text .text-content{ 
+  }
+  .doktor-section .text .lists{
+    padding-bottom: 34px;
+  }
+  .doktor-section .text .lists .item{ 
+  }
+  .doktor-section .text h3{ 
+  }
+  .doktor-section .text p{ 
+  }
+  .doktor-section .randevu{
+    width: 100%;
+  }
+  .doktor-section .text .lists .item .textb h3{
+    text-align: left;
+    margin-bottom: 0;
+    font-size: 31px;
+  }
+  .doktor-section .randevu h3 {
+    font-size: 20px;
+  }
+  .doktor-section .filter-bar .content{
+    padding: 10px 20px 20px 20px;
+  }
+  /* Doktorlarımız -------------- */
+
+  /* kvkk-text -------------- */ 
+  .kvkk-section .text-content .page-content .text h1{
+    font-size: 23px;
+  }
+  .kvkk-section .text-content .page-content .text h2{
+    font-size: 23px;
+  }
+
+  /* kvkk-text -------------- */
+
+  /* tibbi_birimleri -------------- */
+  .letters-listbar-section .item .left h3 {
+    font-size: 55px;
+  }
+  .letters-listbar-section .item .right h4{
+    font-size: 75px;
+  }
+  /* tibbi_birimleri -------------- */
+  
+  /* TUP-BEBEK -------------- */
+  .tup-bebek-section .text h2{
+    font-size: 23px;
+  }
+  .tup-bebek-section .text h3{
+    font-size: 25px;
+  }
+  /* TUP-BEBEK -------------- */
+
+  /* kurumsal -------------- */
+  .page-content .kurumsal-text h3{
+    font-size: 25px;
+  }
+  /* kurumsal -------------- */
+
+  /* kalite-belge -------------- */
+  .page-content .belge-list .item .content .actions a {
+    padding: 7px 9px;
+  }
+  .page-content .belge-list .item .content .title {
+    padding-left: 0;
+  }
+  .page-content .belge-list .item .content .title h3{
+    font-weight: 600;
+font-size: 17px;
+  }
+  /* kalite-belge -------------- */
+
+  /* haberler-detay -------------- */
+  .haberler-detay-section .text-content .image-text .image img{
+    width: 100%;
+    box-shadow: none;
+  }
+  .haberler-detay-section .text-content .image-text .image {
+    margin-bottom: 30px;
+    margin-top: 0;
+  }
+  .haberler-detay-section .text-content .image-text .row{
+    flex-direction: column-reverse;
+  }
+  .haberler-detay-section .text-content .image-text .image .go-back {
+    display: block;
+    margin-bottom: 20px;
+  }
+  .haberler-detay-section .text-content .image-text .left-text .go-back a{
+    display: none;
+  }
+  .haberler-detay-section .text-content .image-text .left-text h3 {
+    font-size: 25px;
+  }
+  /* haberler-detay -------------- */
+
+  /* randevu --------- */
+  .randevu-section .randevu-content .text h1{
+    padding-top: 1em;
+    font-size: 24px;
+
+  }
+  .randevu-section .randevu-content .text h3{
+    padding-top: 1em;
+    font-size: 24px;
+
+  }
+  .randevu-section .randevu-content .row{
+    flex-direction: column-reverse;
+  }
+  .randevu-section .randevu-content.no-reversed .row{
+    flex-direction: initial;
+  }
+
+  .randevu-section .randevu-content{
+    padding-bottom: 0;
+    padding-top: 1em;
+  }
+  .randevu-section .randevu-content .text {
+    padding-bottom: 0;
+  } 
+  .randevu-section .randevu-content .text .call .text h4{
+    font-size: 25px;
+  }
+  .randevu-section{
+    padding-bottom: 0;
+  }
+  /* randevu --------- */
+
+  /* error --------- */
+  .error-page .main-content .details .text {
+    width: 100%;
+  }
+  /* error --------- */
+
+/* Checkup --------- */
+.page-content .kurumsal-text .text-end{
+  text-align: left !important;
+}
+.lists-box {
+  margin-top: 20px;
+}
+.lists-box .item .bottom .sm-item {
+  width: 50%;
+}
+/* Checkup --------- */
+
+/* checkup-kadın --------- */
+.checkup-kadin-section .bottom .item{
+  width: 50%;
+}
+.checkup-kadin-section .bottom .checkup-item{
+  width: 50%;
+  
+}
+/* checkup-kadın --------- */
+
+
+/* contact --------- */
+.randevu-section .randevu-content.contact .row{
+  flex-direction: initial;
+}
+.maps-sec .item {
+  margin-bottom: 40px;
+}
+/* contact --------- */
+
+/* arama --------- */
+.search-page .content-section .search-box .title h3{
+  font-size: 24px;
+}
+.search-page .content-section .search-list .item .content{
+  padding: 11px 10px;
+}
+/* arama --------- */
+
+/* haberler --------- */
+.haberler-section .haberler-box .title .select-box .nice-select{
+  height: 45px;line-height: 43px;
+}
+/* haberler --------- */
+
+/* evde-saglik --------- */
+.evde-saglik .saglik-content .banner .image{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.evde-saglik .saglik-content .banner .image img{
+
+}
+.evde-saglik .saglik-content .banner .detials .download {
+  margin-top: 2em;
+}
+.evde-saglik .saglik-content .banner .detials {
+  margin-bottom: 40px;
+}
+.evde-saglik .saglik-content .services .boxes .item:nth-child(3n){
+  border-right: 2px solid #e7e7e7;
+  border-top: 2px solid #e7e7e7;
+}
+.evde-saglik .saglik-content .services .boxes .item:nth-child(2n){
+  border-right: 0;
+}
+/* evde-saglik --------- */
+
+
+/* fiyat-ogrensor --------- */
+.randevu-section .randevu-content.no-reversed{
+  padding-bottom: 6em;
+}
+.randevu-section .randevu-content.no-reversed .text{
+  padding-bottom: 2em;
+}
+/* fiyat-ogrensor --------- */ 
+
+
+}
+/* 991px==------------------------------ */
+
+/* 767px==------------------------------ */
+@media (max-width:767px) {
+  .main-section{
+    padding-top: 136px;
+  }
+  .header .bottom .left .logo img{
+    width: 361px;
+max-width: 361px;
+  }
+  /* error --------- */
+  .error-page .main-content .details .text h3{
+    font-size: 27px;
+  }
+  .error-page .main-content .details{
+  }
+  /* error --------- */
+ 
+  .header .upper .right .row{
+    margin: 0;
+  }
+  .header .bottom .left .logo .actions{
+    display: flex;
+  }
+  .header .bottom .left .logo{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  .header .bottom .left .logo .logo-con{
+    width: 55%;
+  }
+  .header .bottom .left .logo .actions{
+    width: calc(100% - 55%);
+  }
+  .header .bottom .row{
+    margin: 0;
+  }
+  .header .bottom .left .content{
+    padding-left: 2em;
+  }
+  .header .bottom .left .logo .actions ul li .dropdown .text h4{
+    display: none;
+  }
+  .header .bottom .left .logo .actions ul li .dropdown .icon{
+    display: none;
+  }
+  .header .bottom .left .logo .actions ul li .dropdown .btn{
+    border: none;
+    padding: 0;
+  }
+  .header .bottom .left .logo .actions ul li .dropdown > .btn:hover{
+    border: none !important;
+    padding: 0;
+    background-color: transparent !important;
+  }
+  .header .bottom .left .logo .actions ul li .dropdown .btn:focus{
+    background-color: transparent;
+  }
+  .header .bottom .left .logo .actions ul li .dropdown .flag img{
+    width: 23px;
+    height: 23px;
+  }
+  .header .bottom .left .logo .actions ul li:last-child{
+    display: none;
+  }
+  .header .bottom .left .logo .actions ul li .home a img {
+    width: 27px;
+  }
+  .header .bottom .left .logo .actions > ul{
+    justify-content: end;
+  }
+  .header .bottom .left .links-sec{
+    display: none;
+  }
+  .slider-section .item .video {
+    margin-right: 70px;
+  }
+  [dir=rtl] .slider-section .item .video {
+    margin-left: 70px;
+    margin-right: auto;
+  }
+  /* blog -------------- */
+  .sec-title h3{
+    font-size: 26px;
+  }
+  .blog-section .boxes {
+    padding-top: 5px;
+  }
+  .blog-section .boxes .top .image .content {
+    height: 240px;
+  }
+  .blog-section .boxes .top .item .row{
+    margin: 0;
+  }
+  .blog-section .boxes .top .text .content{
+    padding-bottom: 30px;
+  }
+  .blog-section .boxes .top .owl-carousel .owl-nav{
+    bottom: initial;
+    top: 200px;
+    right: inherit;
+    left: 33px;
+  }
+  
+  .blog-section .boxes .top .owl-carousel .owl-nav button{
+    display: block;
+    width: 40px;
+  height: 40px;
+  }
+  .blog-section .boxes .top .text .content .slider-content .text-content{
+    margin-top: 20px;
+  }
+  .blog-section .boxes .top .text .content .slider-content .text-content a{
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .blog-section .boxes .top .text{
+    padding-right: 0;
+  }
+  [dir=rtl] .blog-section .boxes .top .text{
+    padding-left: 0;
+  }
+  .blog-section .boxes .top .image{
+    padding-left: 0;
+  }
+  [dir=rtl] .blog-section .boxes .top .image{
+    padding-right: 0;
+  }
+  .blog-section .boxes .bottom .item .content .image {
+    height: 350px;
+  }
+  /* blog -------------- */
+
+  /* package -------------- */
+  .package-section .item .image img {
+    width: 100%;
+    max-width: 100%;
+  }
+  .package-section .item .links .top h3 {
+    font-size: 15px;
+  }
+  .package-section .item .links {
+    padding-top: 8em;
+  }
+  /* package -------------- */
+
+  /* footer -------------- */
+  .footer-section .text {
+    text-align: center;
+  }
+  .footer-section .text .info ul li{
+    justify-content: center;
+  }
+  .footer-section .text .help ul li{
+    margin-right: 9px;
+    padding-right: 9px;
+  }
+  .footer-section .text .help ul{
+    justify-content: center;
+  }
+  .footer-section .right .top{
+    text-align: center;
+  }
+  .footer-section .right .bottom ul{
+    flex-wrap: nowrap;
+  }
+  .footer-section .right .bottom{
+    padding-top: 30px;
+  }
+  .footer-section .right .bottom p{
+    text-align: center;
+  }
+  /* footer -------------- */
+
+  /* program -------------- */
+
+  /* program -------------- */
+
+  /* menu -------------- */
+  .menu-section .rightbar .rightbar-content{
+    background-position: center 200px;
+  }
+  .menu-section .sidebar .content .topsec .location{
+    display: flex;
+    margin-left: auto;
+  }
+  .menu-section .sidebar .content .centersec{
+    display: none;
+  }
+  .menu-section > .row{
+
+    display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-height: 100%;
+  } 
+  .menu-section .sidebar .content{
+    padding-bottom: 20px;
+  }
+  .menu-section .rightbar .rightbar-content .head{
+    box-shadow:none;
+    padding: 9px 0;
+  }
+  .menu-section .rightbar{ 
+    height: 0;
+  flex: 1 1 auto;
+  }
+  .menu-section .rightbar .rightbar-content .footer{
+    flex-direction: column-reverse;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .menu-section .rightbar .rightbar-content .footer .row{
+    flex-direction: column-reverse;
+  }
+  .menu-section .rightbar .rightbar-content .footer .left ul li{
+    width: 100%;
+  }
+  .menu-section .rightbar .rightbar-content .footer .left ul li .icon{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .menu-section .rightbar .rightbar-content .footer .left ul li .icon img{
+    margin-right: 10px;
+  }
+  [dir=rtl] .menu-section .rightbar .rightbar-content .footer .left ul li .icon img{
+    margin-right: 0;
+    margin-left: 10px;
+  }
+  .menu-section .rightbar .rightbar-content .footer .left ul li h4{
+    margin-top: 15px;
+  }
+  .menu-section .rightbar .rightbar-content .footer .left{
+    padding-right: 0;
+  }
+  .menu-section .rightbar .rightbar-content .footer .right{
+    box-shadow: 6px -7px 7px 0px #ccc8c847;
+    background-color: white;
+  }
+  .menu-section .rightbar .rightbar-content .footer .right .images ul{
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .menu-section .rightbar .rightbar-content .head .left .search{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: nowrap;
+    padding-left: 0;
+  }
+  .menu-section .rightbar .rightbar-content .head .left .search .type {
+    width: 100%;
+  }
+  .menu-section .rightbar .rightbar-content{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-height: 100%;
+  }
+
+  /* mobil ------------ */
+  .menu-section .rightbar .rightbar-content .center .content .mobile-menu{
+    display: block; 
+  }
+  .menu-section .rightbar .rightbar-content .center .content .disktop-menu{
+    display: none;
+  }
+  .menu-section .nav-pills .nav-link{
+    color: #262626;
+  }
+  /* .menu-section .nav-pills .nav-link.active{
+    background-color: transparent;
+  } */
+  .menu-section .nav-pills .nav-link:hover{
+    color: #fff;
+  }
+  .menu-section .rightbar .rightbar-content .center .content .mobile-menu .top-menu{
+    border-bottom: 1px solid #d8d8d8;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+  }
+  .menu-section .rightbar .rightbar-content .center{
+    padding: 20px 20px 0 10px; 
+    overflow: auto;
+  }
+  .menu-section .rightbar .rightbar-content .center .content{
+  }
+  .menu-section .rightbar .rightbar-content .footer .right .images ul li img{
+    width: 70%;
+  }
+  .mobile-menu .tabs-content{
+    position: absolute;
+    top: 0;
+    background-color: #f9fbff;
+    height: 100%;
+    left: 0;
+  }
+  .mobile-menu .tabs-content .tab-content{
+    height: 100%;
+  }
+  .mobile-menu > .tabs-content .tab-content .tab-pane {
+    height: 100%;
+    flex-direction: column;
+    width: 100%;
+    max-height: 100%;
+  }
+  .mobile-menu > .tabs-content .tab-content .tab-pane.active{
+    display: flex;
+    
+  }
+  .mobile-menu .tab-head{
+    display: flex; 
+    border-bottom: 2px solid #e3e7f2;
+  }
+  .mobile-menu .tab-head .left{}
+  .mobile-menu .tab-head .left button{
+    width: 50px;
+    height: 50px;
+    background-color: #E3E7F2;
+    border: 0;
+  }
+  .mobile-menu .tab-head .left button i{}
+  .mobile-menu .tab-head .title{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-left: 15px;
+  }
+  .mobile-menu .tab-head .title h3{
+    font-weight: 600;
+    margin-bottom: 0;
+    font-size: 20px;
+  }
+  .menu-section .rightbar .rightbar-content .center .content ul li{
+    width: 100%;
+    margin-bottom: 0;
+  }
+  .menu-section .rightbar .rightbar-content .center .content .tabs-content .link-content{
+    overflow: auto;
+  }
+  .menu-section .rightbar .rightbar-content .center .content .tabs-content ul{
+    padding: 13px 20px;
+    overflow-y: scroll; 
+    flex: 1 1 auto;
+  } 
+  .menu-section .rightbar .rightbar-content .footer .saglik-row:last-child{
+    display: none;
+  }
+  .menu-section .rightbar .rightbar-content .footer .saglik-row:first-child{
+    display: block;
+  }
+  /* mobil ------------ */
+
+  .header .upper .menu-btn .text{
+    display: none;
+  }
+  .header .upper .menu-btn {
+    width: 60px !important;
+  }
+  .sticky-menu .upper .logo {
+    padding: 2px 0 7px 4px;
+  }
+  .header .upper .right{
+    width: calc(100% - 60px);
+  }
+  /* menu -------------- */
+
+  /* doktor-detay -------------- */
+  .doktordetay-section .profile-text .tab-content-sec .nav-tabs .nav-item .nav-link{
+    padding: 7px 13px;
+  }
+  .doktordetay-section .profile-text .tab-content-sec .tab-content {
+    padding-top: 1em;
+  }
+  .doktordetay-section .profile-sec .image{
+    height: 180px;
+    width: 180px;
+  }
+  .doktordetay-section .profile-sec .image .video a{
+    width: 40px;
+  height: 40px;
+  }
+  /* doktor-detay -------------- */
+
+  /* Doktorlarımız -------------- */
+  .doktor-section .filter-bar .item{
+    margin-bottom: 10px;
+  }
+  /* Doktorlarımız -------------- */
+
+
+  /* kvkk-text -------------- */
+  .kvkk-section .sidebar .content .title h3 {
+    font-size: 17px;
+  }
+  /* kvkk-text -------------- */
+
+  /* tibbi_birimleri -------------- */
+  .doktor-section .filter-bar .item .filtrele-btn.cls_pt_6{
+    padding-top: 11px !important;
+  }
+  .doktor-section .filter-bar .letters .title{
+    padding-right: 0;
+    width: 72px;
+  }
+  .doktor-section .filter-bar .letters .letter-list{
+    width: calc(100% - 72px);
+  }
+  .doktor-section .filter-bar .letters .letter-list ul li a{
+    width: 33px;
+    font-size: 18px;
+  }
+  .letters-listbar-section .item{ 
+    position: relative;
+  }
+  .letters-listbar-section .item .right{
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: center;
+    bottom: 0;
+    height: 80px;
+    margin: auto;
+  }
+  .letters-listbar-section .item .right h4{
+    text-align: center;
+    opacity: 0.1;
+    font-size: 185px;
+    height: 120px;
+    line-height: 90px;
+  }
+  .letters-listbar-section .item .left{
+    border-right: none;
+    border-bottom: 1px solid #d2d2d2;
+    margin-bottom: 20px;
+    justify-content: center;
+  }
+  .letters-listbar-section .item .center{
+    margin-top: 20px;
+
+  }
+  .letters-listbar-section .item .center .sm-item{
+    margin-bottom: 30px;
+  }
+  .doktor-section .filter-bar .letters{
+  }
+  .doktor-section .filter-bar .letters .letter-list{
+    border-left: none;
+    width: 100%;
+  }
+  .letters-listbar-section{
+    padding-top: 3em;
+  }
+  .doktor-section .top-sec {
+    padding-bottom: 130px;
+    background-position: 0;
+  }
+  .doktor-section .filter-bar .item .filtrele-btn {
+    display: none;
+  }
+  .doktor-section .filter-bar .filtrele-btn.mobile{
+    display: flex;
+  }
+  .doktor-section .filter-bar .letters .letter-select{
+    display: block;
+    border-left: 1px solid #d7d7d7;
+  }
+  .doktor-section .filter-bar .letters .letter-list{
+    display: none;
+  }
+  .doktor-section .filter-bar .letters{
+    justify-content: center;
+  }
+  .doktor-section .fixed-letters{
+    display: none !important;
+  }
+  /* tibbi_birimleri -------------- */
+
+  /* TUP-BEBEK -------------- */
+  .sm-banner .content {
+    height: 170px;
+  }
+  .sm-banner .content .text h3 {
+    font-size: 23px;
+  }
+  /* TUP-BEBEK -------------- */
+
+  /* kurumsal -------------- */
+  .page-content .kurumsal-about .item .content{
+    text-align: left;
+  }
+  .page-content .kurumsal-about .item{
+    margin-bottom: 30px;
+    border-bottom: 2px solid #d8d8d8;
+    border-right: 0;
+    padding-bottom: 18px;
+  }
+  .page-content .kurumsal-about .item:nth-child(2){
+    border-bottom: 0;
+    border-right: 2px solid #d8d8d8;
+  }
+  .page-content .kurumsal-about .item .cn-box{
+    padding-left: 10px;
+  }  
+  .page-content .kurumsal-about .item .cn-box-flex{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  /* kurumsal -------------- */
+
+  /* kalite-belge -------------- */
+  .page-content .belge-list .item .content .left {
+    text-align: center;
+    width: 100%;
+  }
+  .page-content .belge-list .item .content .right, [dir=rtl] .page-content .belge-list .item .content .right{
+    width: 100%;
+    justify-content: center;
+    padding-top: 2em; 
+  }
+  .page-content .belge-list .item .content .image{
+    width: 100%;
+  } 
+  .page-content .belge-list .item .content .title h3{
+    font-size: 20px;
+  } 
+  .page-content .belge-list .item .content .image .img {
+    width: auto;
+    margin: 0 auto;
+    display: block; 
+  }
+  .page-content .belge-list .item .content .image a{
+    justify-content: center;
+  }
+  .page-content .belge-list .item .content{
+    padding: 20px 10px;
+  }
+  .page-content .belge-list .item .content .actions {
+    margin-left: 2px;
+    margin-top: 18px;
+  }
+  .page-content .page-tree ul li a{
+    padding: 0 4px;
+  }
+  
+  /* kalite-belge -------------- */
+
+  /* haberler-detay -------------- */
+  .haberler-detay-section .text-content .image-text .left-text h3{
+    font-size: 22px;
+  }
+  .haberler-detay-section .text-content .actions {
+    margin-top: 1em;
+  }
+  /* haberler-detay -------------- */
+
+/* Checkup --------- */
+.lists-box .item .bottom .sm-item {
+  width: 100%;
+}
+/* Checkup --------- */
+
+/* blog-detay. --------- */
+.blog-detay .page-content .text .details ul li a{
+  padding: 5px 15px;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.blog-detay .page-content .text .main-image {
+  height: 210px;
+}
+.blog-detay .page-content .text h3{
+  font-size: 22px;
+}
+/* blog-detay. --------- */
+
+/* checkup-kadın --------- */
+.checkup-kadin-section .bottom .item {
+  width: 100%;
+}
+/* checkup-kadın --------- */
+
+/* contact --------- */
+.randevu-section .randevu-content .text .contact-info .icon .con{
+  width: 41px;
+  height: 41px;
+}
+.randevu-section .randevu-content .text .contact-info .icon .con img{
+  width: 93%;
+height: 56%;
+}
+.randevu-section .randevu-content .text .contact-info .text h4{
+  font-size: 20px;
+}
+.randevu-section .randevu-content .text .contact-info .social ul li a{
+  font-size: 19px;
+}
+.randevu-section .randevu-content .text {
+  padding-bottom: 1em;
+}
+.randevu-section .randevu-content .text .contact-info .icon{
+  display: flex;
+flex-wrap: wrap;
+align-items: center;
+width: 43px;
+}
+.randevu-section .randevu-content .text .contact-info .text{
+  width: calc(100% - 53px);
+}
+.randevu-section .randevu-content.contact .text-end{
+  text-align: center !important;
+}
+.maps-sec .item .text h5{
+  font-size: 19px;
+}
+.maps-sec .item .text .contact li h4{
+  font-size: 17px;
+}
+.maps-sec .item .text .help .bottom ul li h4{
+  font-size: 17px;
+}
+.maps-sec .item {
+  margin-bottom: 20px;
+}
+/* contact --------- */
+
+/* arama --------- */
+.search-page .content-section .search-box .search-sonuc{
+  display: none;
+}
+/* arama --------- */
+
+/* blog --------- */
+.blogpage-section .boxes .main-box .text .content .slider-content .text-content h3{
+  font-size: 24px;
+}
+.blogpage-section .boxes .main-box .text .content .slider-content .text-content span{
+  font-size: 19px;
+}
+/* blog --------- */
+
+/* evde-saglik --------- */
+.evde-saglik .saglik-content .text h3{
+  font-size: 24px;
+}
+.evde-saglik .saglik-content .text h2{
+  font-size: 23px;
+}
+.evde-saglik .saglik-content .banner .detials h3 {
+  font-size: 23px;
+}
+.evde-saglik .saglik-content .banner .detials .download ul li img {
+  width: 90px;
+}
+.evde-saglik .saglik-content .banner .detials .download ul li {
+  margin-left: 20px;
+}
+.evde-saglik .saglik-content .services .title h3{
+  font-size: 23px;
+
+}
+.evde-saglik .saglik-content .services .boxes .item{
+  border-right: 0 !important;
+  border-top: 2px solid #e7e7e7;
+}
+.evde-saglik .saglik-content .services{
+  background-image:none;
+}
+.evde-saglik .saglik-content .services .boxes .item .content{
+  text-align: center;
+}
+.evde-saglik .saglik-content .services .boxes .item .content .icon{
+  margin: 0 auto;
+}
+.evde-saglik .saglik-content .services .boxes .item .content .text h4{
+  font-size: 23px;
+}
+.evde-saglik .page-tree ul{
+  justify-content: left;
+}
+/* evde-saglik --------- */
+
+  /* hasta-hikaye --------- */
+  .hasta-hikaye .owl-carousel .owl-nav{
+    position: relative;
+    justify-content: center;
+  }
+  .hasta-hikaye .owl-carousel .owl-nav button.owl-next{
+    margin-right: 0;
+  }
+  .hasta-hikaye .owl-carousel .owl-nav button.owl-prev{
+    margin-left: 0;
+  }
+  .hasta-hikaye .owl-carousel .owl-nav button{
+    margin: 0 4px;
+  }
+  .hasta-hikaye .content{
+    margin: 10px 0;
+  }
+  .hasta-hikaye .content h4{
+    font-size: 20px;
+  }
+  .page-tree{
+    display: none;
+  }
+  /* hasta-hikaye --------- */
+/* arama --------- */ 
+.search-page .content-section .search-list .item .content{
+  padding: 26px 10px;
+}
+/* arama --------- */
+.tup-bebek-section .birim-doktorlari .doktorpro .text h3{
+  font-size: 15px;
+}
+.tup-bebek-section .birim-doktorlari .doktorpro .image{
+  height: 80px;width: 80px;
+}
+.tup-bebek-section .birim-doktorlari .doktorpro .text{
+  width: calc(100% - 117px);
+  padding-left: 9px;
+}
+[dir=rtl] .tup-bebek-section .birim-doktorlari .doktorpro .text{
+  padding-left: 0;
+  padding-right: 9px;
+}
+  /* tibbi_birimleri -------------- */
+  .letters-listbar-section .item .center .actions .action-btn{
+    opacity: 1;
+    margin-left: 0;
+  }
+  /* tibbi_birimleri -------------- */
+  .slider-section{
+    margin-top: 125px;
+  }
+  .aboutus-section { 
+    background-size: 380px;
+  }
+  .menu-active .slider-section {
+    margin-top: 321px;
+    transition: 0.9s;
+  }
+  #campaignslider .owl-nav{
+    display: none !important;
+    }
+  .campaignImage{
+    min-height: 85vw !important;
+  }
+}
+/* 767px==------------------------------ */
+
+/* 600px==------------------------------ */
+@media (max-width:600px) {
+  .main-section {
+    padding-top: 118px;
+  }
+  .slider-section {
+    margin-top: 111px;
+  }
+  .header .bottom .left .logo img{
+    width: 271px;
+  }
+  .aciltip{
+    display: none !important;
+    top: -480px;
+left: -257px;
+  }
+  .aciltip button {
+    font-size: 25px;
+  }
+  .aciltip button span.num{
+    left: 30px;
+  }
+  .aciltip button::after{
+    left: 25px;
+  }
+  .aciltip button.active::after {
+    left: 204px;
+  }
+  .header .bottom .left .content{
+    padding-left: 0;
+  }
+  .header .upper .menu-btn{
+    width: 110px;
+  } 
+  .header .bottom .left .logo .logo-con{
+    width: 70%;
+  }
+  .header .bottom .left .logo .actions{
+    width: calc(100% - 70%);
+  }
+  .header .upper .right .announcement .content .title h4 {
+    font-size: 15px;
+  }
+  .header .upper .menu-btn button{
+    padding-bottom: 9px;
+    padding-top: 6px;
+  }
+  .header .upper .right .announcement .content{
+    padding-top: 10px;
+    padding-bottom: 2px;
+  }
+  .slider-section .slider-upper .nobetci{
+    padding-left: 23px;
+  }
+  .slider-section .item .caption .content .text {
+    width: 280px;
+  }
+  .slider-section .item .caption h3 {
+    font-size: 23px;
+    margin-bottom: 10px;
+  }
+  .slider-section .item .video a{
+    height: 50px;
+    width: 50px;
+  }
+  .slider-section .item .video {
+    margin-right: 11px;
+  } 
+  .heade-social-media ul{
+    display: block;
+  }
+  .heade-social-media{
+    right: 10px;
+  }
+  [dir=rtl] .heade-social-media{
+    left: 10px;
+    right: auto;
+  }
+  .heade-social-media ul li{
+    margin-top: 13px;
+  }
+  .heade-social-media ul li a{
+    left: 0;
+  }
+  .heade-social-media ul li:hover a{
+    top: 0; 
+  }
+  .heade-social-media ul li a img { 
+  }
+  .evdesaglik ul li h4{
+    font-size: 13px;
+  }
+  .evdesaglik ul li .icon img{
+    width: 21px;
+    margin-right: 2px;
+  }
+  .aciltip a {
+    font-size: 24px;
+  }
+  .slider-bottom .helper-search .content h4{
+    font-size: 19px;
+  }
+  /* about ----------------- */
+  .aboutus-section .bottom .text .left .item strong{
+    font-size: 15px;
+  }
+  .aboutus-section .bottom .text .left .item h5{
+    font-size: 15px;
+  }
+  .aboutus-section{
+    padding-bottom: 11em;
+  }
+  /* about ----------------- */
+
+  /* blog ----------------- */
+  .blog-section .boxes .bottom .item .content .image {
+    height: 320px;
+  }
+  /* blog ----------------- */
+
+  /* package -------------- */
+  .package-section .item .links {
+    padding-top: 4em;
+  }
+  .package-section .item .links .top{
+    flex-direction: row-reverse;
+  }
+  .package-section .item .links .top h3{
+    padding-right: 0;
+    padding-left: 10px;
+    text-align: left;
+  }
+  .package-section .item .links .list ul{
+    padding-left: 0;
+  }
+  /* package -------------- */
+
+  /* footer -------------- */
+  .footer-section{
+    padding-bottom: 5em;
+  }
+  /* footer -------------- */
+  /* menu -------------- */
+  .menu-section .rightbar .rightbar-content .footer {
+    bottom: 0;
+  }
+  .menu-section .rightbar{
+    height: 87%;
+  }
+  .menu-section .rightbar .rightbar-content .footer .left ul li a{
+  }
+  .menu-section .rightbar .rightbar-content .center{
+    height: calc(100% - 227px);
+  }
+  .mobile-menu .tab-head .title h3{
+    font-weight: 700;
+    font-size: 17px;
+  }
+  .menu-section .sidebar .content .topsec{
+    padding: 7px 15px 0 15px;
+  }
+  .menu-section .sidebar .content {
+    padding-bottom: 13px;
+  }
+  /* menu -------------- */
+
+  /* doktor-detay -------------- */
+  .doktordetay-section .profile-text .tab-content-sec .nav-tabs .nav-item{
+    margin-bottom: 10px;
+    margin-right: 10px;
+  }
+  .doktordetay-section .profile-text .tab-content-sec .tab-content ul li{
+    width: 100%;
+  }
+  /* doktor-detay -------------- */
+
+  /* Doktorlarımız -------------- */
+  .doktor-boxes-section .item .content .image .video a{
+    width: 40px;
+    height: 40px;
+  }
+  /* Doktorlarımız -------------- */
+
+  /* TUP-BEBEK -------------- */ 
+  .tup-bebek-section .birim-doktorlari .doktorpro .actions ul li:last-child{
+    margin-right: 0;
+  }
+  .tup-bebek-section .birim-doktorlari .doktorpro .actions{
+  }
+  .tup-bebek-section .birim-doktorlari .doktorpro .text{ 
+  }
+  .tup-bebek-section .birim-doktorlari .doktorpro .image{
+    margin: 0 auto;
+  }
+  .tup-bebek-section .birim-doktorlari .doktorpro{
+    padding: 20px 20px 20px 20px;
+  }
+  .tup-bebek-section .birim-doktorlari .doktora-sorun .content .item .btn{
+    width: auto;
+  }
+  .tup-bebek-section .text h2{
+    font-size: 21px;
+  }
+  .tup-bebek-section .text h3 {
+    font-size: 23px;
+  }
+  .ilgili-yazilar .m-content .slider-content .owl-carousel .owl-nav button{
+    width: 35px;
+height: 35px;
+  }
+  .ilgili-yazilar .m-content .head h3{
+    font-size: 22px;
+  }
+  .ilgili-yazilar .m-content .slider-content .owl-carousel .owl-nav{
+    /* top: -58px;
+left: 168px; */
+  }
+  .ilgili-yazilar .m-content .slider-content .item .content .box-head h3 {
+    font-size: 20px;
+  }
+  /* TUP-BEBEK -------------- */
+  /* kurumsal -------------- */
+  .page-content .kurumsal-text h3 {
+    font-size: 24px;
+  }
+  .page-content .kurumsal-about .main-item h3{
+    font-size: 36px;
+  }
+  .page-content .kurumsal-about .item h3{
+    font-size: 36px;
+
+  }
+  /* kurumsal -------------- */
+
+/* blog-detay --------- */
+.blog-detay .page-content .haber-pagenation .btn-sec a{
+  width: 40px;
+  height: 40px;
+}
+/* blog-detay --------- */
+
+/* arama --------- */
+.search-page .content-section .search-box .title h3{
+  font-size: 21px;
+}
+.search-page .content-section .search-list .item .text h3{
+  font-size: 18px;
+}
+.search-page .content-section .search-list .item .action {
+  width: 88px;
+}
+.search-page .content-section .search-list .item .text {
+  width: calc(100% - 88px);
+}
+/* arama --------- */
+
+/* blog --------- */
+.blogpage-section .sidebar-search .kategori .content ul li a{
+  padding: 7px 20px;
+}
+/* blog --------- */
+.aboutus-section .bottom .image .about-box{
+  bottom: 0;
+  right: 13px;
+  height: 80px;
+}
+} 
+
+/* 600px==------------------------------ */
+
+/* 575px==------------------------------ */
+@media (max-width:575px) {}
+/* 575px==------------------------------ */
+
+/* 430px==------------------------------ */
+@media (max-width:450px) {
+  /* package -------------- */
+  .package-section .item .links .top h3 {
+    font-size: 14px;
+  }
+  /* package -------------- */
+
+  /* Doktorlarımız -------------- */
+  
+  .doktor-section .text .lists .item .image img {
+    width: 70%;
+  }
+  .doktor-section .text .lists .item .textb h3{
+    font-size: 20px;
+  }
+  .doktor-section .text .lists .item .textb h4 {
+    font-size: 14px;
+  }
+  /* Doktorlarımız -------------- */
+
+/* blog --------- */
+.blogpage-section .boxes .main-box .image .content {
+  height: 310px;
+}
+.blogpage-section .boxes .main-box .owl-carousel .owl-nav{
+  top: 260px;
+}
+/* blog --------- */
+.sticky-menu .upper .logo img {
+  max-width: 200px;
+}
+
+}
+
+/* 430px==------------------------------ */
+
+/* 350px==------------------------------ */
+@media (max-width:375px) {}
+/* 350px==------------------------------ */
+@media (max-height:800px) and (max-width: 600px) {
+  .slider-bottom{
+    position: relative;
+  }
+  .slider-section{
+    height: auto !important;
+  }
+  .slider-section .main-slider .owl-dots{
+    bottom: 20px;
+  }
+}

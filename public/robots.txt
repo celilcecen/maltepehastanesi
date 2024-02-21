@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /*?letter=*
+Disallow: /*?pagespeed=*
+Disallow: /*index.php/*
+Disallow: */kampanyalar*
+Disallow: */katalog*
+Disallow: *?PageSpeed=*
+Disallow: *?category=*
+Disallow: */en/*
+Disallow: */fr/*
+
+Sitemap: https://maltepehastanesi.com.tr/sitemap.xml
