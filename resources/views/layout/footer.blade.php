@@ -20,18 +20,18 @@
              </div>
              <div class="social-media">
                 <ul>
-                  @if($contactUs->youtube)<li><a target="_blank" href="{{$contactUs->youtube}}"><i class="fa-brands fa-youtube"></i></a></li>@endif
-                  @if($contactUs->twitter)<li><a target="_blank" href="{{$contactUs->twitter}}"><i class="fa-brands fa-twitter"></i></a></li>@endif
-                  @if($contactUs->facebook)<li><a target="_blank" href="{{$contactUs->facebook}}"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>@endif
-                  @if($contactUs->instagram)<li><a target="_blank" href="{{$contactUs->instagram}}"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>@endif
-                  @if($contactUs->linkedin)<li><a target="_blank" href="{{$contactUs->linkedin}}"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>@endif
+                  @if($contactUs->youtube)<li><a target="_blank" href="{{$contactUs->youtube}}"><i class="fa-brands fa-youtube fa-xl"></i></a></li>@endif
+                  @if($contactUs->twitter)<li><a target="_blank" href="{{$contactUs->twitter}}"><i class="fa-brands fa-twitter fa-xl"></i></a></li>@endif
+                  @if($contactUs->facebook)<li><a target="_blank" href="{{$contactUs->facebook}}"><i class="fab fa-facebook-f fa-xl" aria-hidden="true"></i></a></li>@endif
+                  @if($contactUs->instagram)<li><a target="_blank" href="{{$contactUs->instagram}}"><i class="fab fa-instagram fa-xl" aria-hidden="true"></i></a></li>@endif
+                  @if($contactUs->linkedin)<li><a target="_blank" href="{{$contactUs->linkedin}}"><i class="fab fa-linkedin fa-xl" aria-hidden="true"></i></a></li>@endif
                 </ul>
              </div>
              <div class="verigizlik">
                 <h3>{{ text('DataPrivacy') }}</h3>
                <ul>
                   @foreach ($pages as $page)
-         
+
                         <li><a href="{{ localeRoute('staticPage', $page->slug) }}">{{ $page->title }}</a></li>
                   @endforeach
                </ul>
@@ -69,7 +69,7 @@
        </div>
     </div>
  </section>
- 
+
  @include('homepage.getWellModal')
  @include('homepage.opinionsSuggestions')
 
@@ -84,7 +84,7 @@
  <script src="{{asset('js/toastr.min.js')}}"></script>
  {{-- <script src="{{asset('lib/aos-master/dist/aos.js')}}"></script> --}}
  <script src="{{asset('js/script.js')}}"></script>
- <script src="{{asset('lib/intl-tel-input-master/build/js/intlTelInput-jquery.min.js') }}"></script> 
+ <script src="{{asset('lib/intl-tel-input-master/build/js/intlTelInput-jquery.min.js') }}"></script>
 @if($errors->any())
 <script>
    toastr.options.progressBar = true;
@@ -102,27 +102,27 @@
 @stack('js')
 <script>
    document.addEventListener('DOMContentLoaded', function() {
-       var dir = document.documentElement.getAttribute('dir'); 
-       
+       var dir = document.documentElement.getAttribute('dir');
+
        var chevronIcons = document.querySelectorAll('.chevron-icon');
        chevronIcons.forEach(function(icon) {
-           icon.classList.remove('fa-chevron-right', 'fa-chevron-left'); 
-           icon.classList.add('fa-solid', dir === 'rtl' ? 'fa-chevron-left' : 'fa-chevron-right'); 
+           icon.classList.remove('fa-chevron-right', 'fa-chevron-left');
+           icon.classList.add('fa-solid', dir === 'rtl' ? 'fa-chevron-left' : 'fa-chevron-right');
        });
 
        var chevronIcons = document.querySelectorAll('.chevron-icon-revers');
        chevronIcons.forEach(function(icon) {
-           icon.classList.remove('fa-chevron-right', 'fa-chevron-left'); 
-           icon.classList.add('fa-solid', dir === 'rtl' ? 'fa-chevron-right' : 'fa-chevron-left'); 
+           icon.classList.remove('fa-chevron-right', 'fa-chevron-left');
+           icon.classList.add('fa-solid', dir === 'rtl' ? 'fa-chevron-right' : 'fa-chevron-left');
        });
 
        var chevronIcons = document.querySelectorAll('.arrow-icon');
        chevronIcons.forEach(function(icon) {
-           icon.classList.remove('fa-arrow-right', 'fa-arrow-left'); 
-           icon.classList.add('fa-arrow', dir === 'rtl' ? 'fa-arrow-left' : 'fa-arrow-right'); 
+           icon.classList.remove('fa-arrow-right', 'fa-arrow-left');
+           icon.classList.add('fa-arrow', dir === 'rtl' ? 'fa-arrow-left' : 'fa-arrow-right');
        });
 
-       
+
    });
 </script>
 {!! $seo->body_bottom !!}
