@@ -13,12 +13,12 @@ use Illuminate\Support\Facades\Session;
 class BlogController extends Controller
 {
 
-    public function index(Request $request){
+    public function index(Request $request, $slug = null){
 
    /* //    dd($request->slug);
         $compact = Cache::rememberForever('blogs_index_'.app()->getLocale(), function(){
             $meta = Meta::where('page_name', 'makaleler')->first()->translate(app()->getLocale());
-            
+
             $featured_blogs = Blog::withTranslation(app()->getLocale())->where('is_featured', 1)->orderByDesc('date')->get()->translate(app()->getLocale());
             $categories = BlogCategory::get()->translate(app()->getLocale());
             $breadcrumbs = Breadcrumbs::generate('blogs.index');
@@ -82,11 +82,11 @@ class BlogController extends Controller
         // dd($shareBtns) ;
         if($category)
             Session::flash('slugObject', $category);
-        
+
 
         return view('blogs.index',compact('blogs','shareBtns'))->with($compact);*/
-      
-      
+
+      /*
       $blogs = Cache::rememberForever('blogs_index_'.app()->getLocale(), function() {
     $allBlogs = Blog::withTranslation(app()->getLocale())
                     ->with(['author' => function ($query) {
@@ -107,19 +107,102 @@ class BlogController extends Controller
     });
 });
 
-  
-  
+
+
     // Kategori ve diğer verileri hazırla
     $categories = BlogCategory::get()->translate(app()->getLocale());
-    $breadcrumbs = Breadcrumbs::generate('blogs.index'); 
+    $breadcrumbs = Breadcrumbs::generate('blogs.index');
 
-  
-  
+
+
     // Verileri görünüme gönder
-    return view('blogs.index', compact('blogs', 'categories', 'breadcrumbs')); 
+    return view('blogs.index', compact('blogs', 'categories', 'breadcrumbs')); */
+
+        if (is_null($slug)) {
+
+            $blogs = Cache::rememberForever('blogs_index_'.app()->getLocale(), function() {
+                $allBlogs = Blog::withTranslation(app()->getLocale())
+                    ->with(['author' => function ($query) {
+                        $query->withTranslation(app()->getLocale());
+                    }, 'categories'])
+                    ->get()
+                    ->translate(app()->getLocale());
+
+                $sortedBlogs = $allBlogs->sort(function ($a, $b) {
+                    $collator = collator_create('tr_TR');
+                    return collator_compare($collator, $a->title, $b->title);
+                });
+
+                return $sortedBlogs->groupBy(function($item) {
+                    return mb_strtoupper(mb_substr($item->title, 0, 1, 'UTF-8'), 'UTF-8');
+                });
+            });
+
+            $categories = BlogCategory::get()->translate(app()->getLocale());
+            $breadcrumbs = Breadcrumbs::generate('blogs.index');
+
+            return view('blogs.index', compact('blogs', 'categories', 'breadcrumbs'));
+        } else {
+
+            $category = BlogCategory::where('slug', $slug)->firstOrFail();
+
+            $blogs = Cache::rememberForever('blogs_category_index_'.app()->getLocale(), function() use ($category) {
+                $allBlogs = Blog::whereHas('categories', function ($query) use ($category) {
+                    $query->where('blog_categories.id', $category->id);
+                })
+                    ->withTranslation(app()->getLocale())
+                    ->with(['author' => function ($query) {
+                        $query->withTranslation(app()->getLocale());
+                    }, 'categories'])
+                    ->get()
+                    ->translate(app()->getLocale());
+
+
+                $sortedBlogs = $allBlogs->sort(function ($a, $b) {
+                    $collator = collator_create('tr_TR');
+                    return collator_compare($collator, $a->title, $b->title);
+                });
+
+
+                return $sortedBlogs->groupBy(function($item) {
+                    return mb_strtoupper(mb_substr($item->title, 0, 1, 'UTF-8'), 'UTF-8');
+                });
+            });
+
+            $breadcrumbs = Breadcrumbs::generate('blogs.index');
+
+            return view('blogs.indexx', compact('blogs', 'category', 'breadcrumbs'));
+
+            /*$blogs = Cache::rememberForever('blogs_index_'.app()->getLocale(), function() {
+                $allBlogs = Blog::withTranslation(app()->getLocale())
+                    ->with(['author' => function ($query) {
+                        $query->withTranslation(app()->getLocale());
+                    }, 'categories'])
+                    ->get()
+                    ->translate(app()->getLocale());
+
+
+                $sortedBlogs = $allBlogs->sort(function ($a, $b) {
+                    $collator = collator_create('tr_TR');
+                    return collator_compare($collator, $a->title, $b->title);
+                });
+
+
+                return $sortedBlogs->groupBy(function($item) {
+                    return mb_strtoupper(mb_substr($item->title, 0, 1, 'UTF-8'), 'UTF-8');
+                });
+            });
+
+
+            $categories = BlogCategory::get()->translate(app()->getLocale());
+            $breadcrumbs = Breadcrumbs::generate('blogs.index');
+
+
+            return view('blogs.index', compact('blogs', 'categories', 'breadcrumbs'));*/
+        }
     }
 
-    
+
     public function show(Request $request)
     {
         $compact = Cache::rememberForever("blogs_show_{$request->slug}_".app()->getLocale(), function() use ($request){
@@ -128,7 +211,7 @@ class BlogController extends Controller
             $nextBlog = Blog::withTranslations(app()->getLocale())->where('created_at', '>', $blog->created_at)->orderBy('created_at', 'asc')->first();
             $breadcrumbs = Breadcrumbs::generate('blogs.show', $blog);
             $meta = New Meta ;
-            
+
             $meta->meta_title = $blog->meta_title;
             $meta->meta_description = $blog->meta_description;
             $meta->meta_keyword = $blog->meta_keyword;
@@ -146,7 +229,7 @@ class BlogController extends Controller
 
         $compact["latest_blogs"] = Cache::rememberForever('latest_blogs_'.app()->getLocale(), function(){
             $latest_blogs = Blog::withTranslation(app()->getLocale())->with(['author', 'categories'])->orderByDesc('date')->take(5)->get()->translate(app()->getLocale());
-            
+
             return $latest_blogs;
         });
 
@@ -169,5 +252,5 @@ class BlogController extends Controller
         // dd($blog->comments);
         return view('blogs.show',compact('shareBtns'))->with($compact);
     }
-    
+
 }

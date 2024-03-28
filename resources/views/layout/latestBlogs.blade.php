@@ -1,20 +1,20 @@
-<div class="box en-son-yazilar desktop">
+<div class="box en-son-yazilar">
     <div class="title">
        <h3>{{text('Latest_Posts')}}</h3>
     </div>
     <div class="content">
 
       @foreach ($latest_blogs as $blog)
-         
+
 
        <div class="item">
           <div class="content">
              <div class="box-head">
 
-                  @foreach ($blog->categories->translate(app()->getLocale()) as $category)
-                     <a href="{{ localeRoute('blogs.index', ['slug' => $category->slug]) }}" class="btn-{{$category->color}}">{{$category->title}}</a>
-                  @endforeach
-                
+                 @foreach ($blog->units->translate(app()->getLocale()) as $category)
+                     <a href="{{ localeRoute('medicalUnits.show', ['slug' => $category->slug]) }}" class="btn btn-info">{{$category->title}}</a>
+                 @endforeach
+
 
                 <h3><a href="{{ localeRoute('blogs.show', $blog->slug) }}">{{ $blog->title }}</a></h3>
                 <div class="share">
@@ -63,7 +63,7 @@
                                           <h4>{{ $blog->title }}</h4>
                                           {!! $shareBtns[$blog->id] !!}
                                     </div>
-                                    
+
                               </div>
                            </div>
                         </div>
@@ -72,7 +72,7 @@
             </div>
          </div>
    @endforeach
- </div> 
+ </div>
 
  <div class="box en-son-yazilar mobile">
     <div class="title">
@@ -82,21 +82,21 @@
        <div class="owl-carousel owl-theme" id="blog-sm-slider">
 
          @foreach ($latest_blogs as $blog)
-         
+
             <div class="item">
                <div class="content">
                   <div class="box-head">
 
-                     @foreach ($blog->categories->translate(app()->getLocale()) as $category)
-                        <a href="" class="btn-{{$category->color}}">{{$category->title}}</a>
-                     @endforeach
+                      @foreach ($blog->units->translate(app()->getLocale()) as $category)
+                          <a href="{{ localeRoute('medicalUnits.show', ['slug' => $category->slug]) }}" class="btn btn-info">{{$category->title}}</a>
+                      @endforeach
 
                      <h3> <a href="{{ localeRoute('blogs.show', $blog->slug) }}">{{ $blog->title }}</a></h3>
 
                      <div class="share">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#m-{{ $blog->slug }}"><i class="fa-solid fa-share-nodes"></i></a>
                      </div>
-      
+
 
                   </div>
 
@@ -121,13 +121,13 @@
                      </div>
                   </div>
                </div>
-            </div> 
+            </div>
 
          @endforeach
 
-         
-      
-       </div> 
+
+
+       </div>
        @foreach ($latest_blogs as $blog)
          <div class="modal fade" id="m-{{ $blog->slug }}" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered modal-lg">
@@ -144,7 +144,7 @@
                                           <h4>{{ $blog->title }}</h4>
                                           {!! $shareBtns[$blog->id] !!}
                                     </div>
-                                    
+
                               </div>
                            </div>
                         </div>

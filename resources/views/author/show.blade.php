@@ -1,10 +1,22 @@
 @extends('layout.app')
 @section('content')
+
+    <style>
+        .text-wrapper {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-height: 54px;
+            line-height: 18px;
+        }
+    </style>
 <div class="main-section">
     <section class="blogpage-section">
        <div class="container">
 
-        {{ Breadcrumbs::render('author.show', $author) }} 
+        {{ Breadcrumbs::render('author.show', $author) }}
 
           <div class="boxes">
              <div class="row">
@@ -17,7 +29,7 @@
                                 <div class="img-content col-md-6 col-xl-3 ">
                                     <img class="rounded-circle" src="{{$author->image ? Voyager::image($author->image) : asset('img/logo_symbol.png')}}" alt="{{$author->name}}">
                                 </div>
-                        
+
                                 <div class="text col-md-6 col-xl-9">
                                     <div class="title">
                                         <h1>{{ $author->name }}</h1>
@@ -28,14 +40,14 @@
                                 </div>
 
                         </div>
-                    
-                    
+
+
 
                    <div class="small-box">
                       <div class="row">
 
                         @foreach($blogs->translate(app()->getLocale()) as $blog)
-                           
+
                          <div class="item col-md-4">
                             <div class="content">
                                <div class="image">
@@ -44,15 +56,15 @@
                                <div class="text">
                                  <div class="head">
                                     @foreach ($blog->categories->translate(app()->getLocale()) as $category)
-                                       
+
                                           <a href="{{ localeRoute('blogs.index', ['slug' => $category->slug]) }}" class="btn-{{$category->color}}">{{$category->title}}</a>
-                                       
+
                                     @endforeach
                                   </div>
- 
+
                                   <h4><a href="{{ localeRoute('blogs.show', $blog->slug) }}"> {{$blog->title}} </a></h4>
- 
-                                  <p>
+
+                                  <p class="text-wrapper">
                                      {{$blog->brief}}
                                   </p>
                                   <div class="more">
@@ -71,18 +83,18 @@
                                </div>
                             </div>
                          </div>
- 
+
                          @endforeach
 
                         </div>
 
-                         
+
                            {{-- {{$blogs->withQueryString()->onEachSide(2)->links()}} --}}
-                        
+
                    </div>
                 </div>
 
-                   
+
                 </div>
              </div>
           </div>
