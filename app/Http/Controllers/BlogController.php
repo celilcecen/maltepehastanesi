@@ -21,6 +21,7 @@ class BlogController extends Controller
                 ->with(['author' => function ($query) {
                     $query->withTranslation(app()->getLocale());
                 }, 'categories'])
+                ->orderBy('created_at', 'desc')
                 ->get()
                 ->translate(app()->getLocale());
 
@@ -36,11 +37,19 @@ class BlogController extends Controller
             $categories = BlogCategory::get()->translate(app()->getLocale());
             $breadcrumbs = Breadcrumbs::generate('blogs.index');
 
-            return view('blogs.index', compact('blogs', 'categories', 'breadcrumbs'));
+            return view('blogs.index', compact('allBlogs', 'categories', 'breadcrumbs'));
 
         } else {
 
             $category = BlogCategory::where('slug', $slug)->firstOrFail();
+
+            $meta = New Meta ;
+
+            $meta->meta_title = $category->meta_title;
+            $meta->meta_description = $category->meta_description;
+            $meta->meta_keyword = $category->meta_keyword;
+            $meta->meta_canonical = $category->meta_canonical;
+            $meta->meta_ogimage = $category->meta_ogimage;
 
             $allBlogs = Blog::whereHas('categories', function ($query) use ($category) {
                 $query->where('blog_categories.id', $category->id);
@@ -49,6 +58,7 @@ class BlogController extends Controller
                 ->with(['author' => function ($query) {
                     $query->withTranslation(app()->getLocale());
                 }, 'categories'])
+                ->orderBy('created_at', 'desc')
                 ->get()
                 ->translate(app()->getLocale());
 
@@ -63,7 +73,7 @@ class BlogController extends Controller
 
             $breadcrumbs = Breadcrumbs::generate('blogs.index');
 
-            return view('blogs.indexx', compact('blogs', 'category', 'breadcrumbs'));
+            return view('blogs.indexx', compact('allBlogs', 'category', 'breadcrumbs', 'meta'));
 
         }
     }

@@ -22,9 +22,9 @@ class Kernel extends HttpKernel
         \App\Http\Middleware\TrimStrings::class,
         \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
         \Barryvdh\HttpCache\Middleware\CacheRequests::class
-      //  \App\Http\Middleware\SecureHeaders::class 
+      //  \App\Http\Middleware\SecureHeaders::class
 
-      
+
     ];
 
     /**

@@ -24,7 +24,7 @@
                                <img src="{{asset('img/icon/kadro.png')}}" alt="">
                             </div>
                             <div class="textb">
-                                <h3>{{$doctorsCount}}</h3>
+                                <h3>163</h3>
                                 <h4>{{text('teachingStaff')}}</h4>
                             </div>
                          </div>
@@ -129,7 +129,7 @@
         <div class="pagination-container">
             {{$doctors->withQueryString()->onEachSide(2)->links()}}
         </div>
-        
+
       </div>
     </section>
 </div>

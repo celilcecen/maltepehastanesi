@@ -108,10 +108,7 @@
 
                                 <div class="small-box">
                                     <div class="row">
-
-                                        @foreach($blogs as $letter => $blogGroup)
-                                            @foreach($blogGroup->translate(app()->getLocale()) as $blog)
-
+                                        @foreach($allBlogs->translate(app()->getLocale()) as $blog)
                                                 <div class="item col-md-4">
                                                     <div class="content">
                                                         <div class="image">
@@ -151,8 +148,6 @@
                                                         </div>
                                                     </div>
                                                 </div>
-
-                                            @endforeach
                                         @endforeach
 
                                     </div>

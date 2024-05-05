@@ -43,7 +43,7 @@
                    <div class="right col-sm-12 col-md-12 col-lg-6">
                       <div class="item">
                          <p>{{ text('ExperiencedAcademicStaff') }}</p>
-                         <h3>{{ $institutional->teaching_staff }}</h3>
+                         <h3>163+</h3>
                          <strong>{{ text('TEACHINGSTAFF') }}</strong>
                       </div>
                       <div class="item">

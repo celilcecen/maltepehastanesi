@@ -26,7 +26,7 @@
                                             <img src="{{asset('img/icon/kadro.png')}}" alt="">
                                         </div>
                                         <div class="textb">
-                                            <h3>{{$doctorsCount}}</h3>
+                                            <h3>163</h3>
                                             <h4>{{text('teachingStaff')}}</h4>
                                         </div>
                                     </div>
@@ -70,7 +70,7 @@
                                 </div>
                             </form>
                                 <div class="row">
-                    
+
                                     <div class="letters">
 
                                         <div class="title">
