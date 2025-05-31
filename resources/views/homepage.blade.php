@@ -4,21 +4,19 @@
 @section('content')
 
    @include('homepage.slider')
-   
+
    @include('homepage.aboutUs')
 
    @include('homepage.linksBanner')
-   
+
    @include('homepage.blog')
 
    @include('homepage.package')
 
-   @include('homepage.program')
-
    @if($campaigns->count() > 0)
      @include('homepage.campaign')
    @endif
- 
+
    @if($popup)
       <a href="{{Voyager::image($popup->image)}}" class="d-none" data-fancybox id="popup"></a>
    @endif
