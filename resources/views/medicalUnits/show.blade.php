@@ -82,7 +82,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </div> 
+                                    </div>
                                     @endforeach
                                 </div>
                             </div>
@@ -103,7 +103,7 @@
                                                             <h4>{{ $blog->title }}</h4>
                                                             {!! $shareBtns[$blog->id] !!}
                                                         </div>
-                                                        
+
                                                 </div>
                                             </div>
                                             </div>
@@ -117,40 +117,40 @@
                 </div>
                 <div class="col-md-12 col-xl-4 birim-doktorlari">
                     @if($unit->doctors->count() > 0)
-                    <div class="title">
-                        <h3>{{text('unitDoctors')}}</h3>
-                    </div>
-                    @foreach($unit->doctors->translate(app()->getLocale()) as $doctor)
-                    <div class="doktorpro {{!$loop->first ? 'mt-3' : ''}}">
-                        <div class="image">
-                            <img class="rounded-circle" src="{{$doctor->image ? Voyager::image($doctor->image) : asset('img/logo_symbol.png')}}" alt="{{$doctor->name}}">
-                        </div> 
-                        <div class="text">
-                            <div class="text-cont">
-                                <div class="doctor-name d-flex">
-                                    <div class="starter-line"></div>
-                                    <h3>{{$doctor->title}} {{$doctor->name}}</h3>
+                        <div class="title">
+                            <h3>{{text('unitDoctors')}}</h3>
+                        </div>
+                        @foreach($unit->doctors->translate(app()->getLocale())->sortByDesc('title') as $doctor)
+                            <div class="doktorpro {{!$loop->first ? 'mt-3' : ''}}">
+                                <div class="image">
+                                    <img class="rounded-circle" src="{{$doctor->image ? Voyager::image($doctor->image) : asset('img/logo_symbol.png')}}" alt="{{$doctor->name}}">
                                 </div>
-                                <div class="descreption">
-                                    <p>{!! $doctor->units->translate(app()->getLocale())->sortBy('title')->implode('title', '<br>') !!}</p>
-                                </div> 
+                                <div class="text">
+                                    <div class="text-cont">
+                                        <div class="doctor-name d-flex">
+                                            <div class="starter-line"></div>
+                                            <h3>{{$doctor->title}} {{$doctor->name}}</h3>
+                                        </div>
+                                        <div class="descreption">
+                                            <p>{!! $doctor->units->translate(app()->getLocale())->sortBy('title')->implode('title', '<br>') !!}</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="actions">
+                                    <ul>
+                                        <li>
+                                            <a href="{{localeRoute('appointment')}}" class="btn btn-info"><img src="{{asset('img/icon/date.png')}}" alt="date"></a>
+                                        </li>
+                                        <li>
+                                            <a href="{{localeRoute('doctors.show', ['slug' => $doctor->slug])}}" class="btn btn-secondary"><span class="icon"><i class="fa-solid arrow-icon"></i></span></a>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
-                        </div> 
-                        <div class="actions">
-                        <ul>
-                            <li>
-                                <a href="{{localeRoute('appointment')}}" class="btn btn-info"><img src="{{asset('img/icon/date.png')}}" alt="date"></a>
-                            </li>
-                            <li>
-                                <a href="{{localeRoute('doctors.show', ['slug' => $doctor->slug])}}" class="btn btn-secondary"><span class="icon"><i class="fa-solid arrow-icon"></i></span></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                @endforeach
+                        @endforeach
                     @endif
 
-                   @include('layout.doctorQuestionForm')
+                    @include('layout.doctorQuestionForm')
                 </div>
             </div>
         </div>
